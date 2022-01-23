@@ -1,0 +1,82 @@
+
+Data Scientist
+
+
+
+
+
+
+Location:
+
+
+Cardiff, Glasgow, London
+
+
+
+Salary (London):
+
+
+£46,250 - £70,397
+
+
+
+Salary (Outside London):
+
+
+£43,650 - £64,640
+
+
+
+Salary Band:
+
+
+Band D
+
+
+
+Contract Type:
+
+
+Permanent
+
+
+
+Closing Date:
+
+
+Before 11:55pm on 
+
+Monday 17 January 2022
+
+
+
+Ofgem works on behalf of energy consumers to ensure that every household and business in the UK can rely on a safe, affordable and environmentally sustainable energy supply. We are playing a vital part in accelerating the transition to Net Zero and a carbon neutral energy system - a goal that everyone wants to achieve. Whatever your role, you’ll be playing your part in creating new energy solutions that are great for customers and for the environment.
+We offer a diverse range of flexible working career opportunities: roles that are stimulating and rewarding, where you can get involved in ground-breaking work. And it’s important to us that we recruit from a wide range of professional and personal backgrounds.
+
+Effective use of data is at the centre of our work to bring about a Net Zero energy supply. As the energy sector becomes more digitalised we have a key role to play in ensuring that this is underpinned with best practice and regulation.
+
+As a Data Scientist you’ll be working in our dynamic and growing Analytics team. It’s a team that’s cross-functional, diverse and knowledgeable. You'll accelerate data driven decision making, digital transformation and enable self-service analytics across Ofgem. You’ll be responsible for designing, building and deploying data science models to answer strategic business questions using modern data science technologies such as Azure Synapse, Python, R, Power Bi and Qlik Sense.
+
+In this new role, working closely with the Head of Data Science, you’ll apply data science techniques across a wide range of energy market data and processes. You’ll embed and launch Data Science models to help inform strategic decisions - assessing current software, architecture and capabilities, sourcing and preparing strategic data sets. You’ll also collaborate in the creation of Data Science Best practice and provide expertise to other Ofgem departments and external stakeholders. It’s a role that requires an understanding of strategic business initiatives and analysis, data assets, and Data Science product development as well as being able to use data visualisation and storytelling techniques to share conclusions and advise on impacts.
+
+It’s essential that you can bring mathematical, statistical and analytical/research skills and your knowledge in the development of data science, machine learning, analytics or statistical data products should include a core data science language. Your professional expertise should be complemented by highly developed communication and presentation skills along with a methodical approach and a keen focus on quality.
+
+Job description
+
+The Data Scientist is a role within our Analytics team key to accelerating data driven decision making, digital transformation and enable self-service analytics across Ofgem. They design, build and deploy data science models to answer strategic business questions using modern data science technology e.g. Azure Synapse, Python, R, Power Bi and Qlik Sense.
+
+This role works closely with the Head of Data Science to deliver the strategic initiatives in our Data Science transformation roadmap. This includes:
+•Assessing current software, architecture and capabilities,
+•Sourcing and preparing strategic data sets,
+•Develop, train and launch new Data Science models
+•Developing training, communities, standards or providing advisory services on Data Science to Ofgem
+The goal will be to embed Data Science models and analysis into all strategic decisions where appropriate.
+
+Responsibilities
+
+•Understand strategic business initiatives and analytical questions to answer
+•Understand what data assets are available before sourcing, preparing and transforming the data required for the model
+•Develop Data Science products that are accurate, appropriate and insightful to business users
+•Use data visualisation and storytelling techniques to share the analytic conclusions reached and what their strategic impact is
+•Collaborate in the creation of Data Science best practice and training for the Data team and all staff across Ofgem
+•Provide expertise to other Ofgem departments or external stakeholders in how to get more value or insight from their data
