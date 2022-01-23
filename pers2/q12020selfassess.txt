@@ -1,0 +1,25 @@
+Performance Self Assessment for Q1 (April-June 2020)
+
+This quarter I was almost exclusively working on the Covid RFI retail spoke which started early April and ends tomorrow. (I will be working with the team on version 2
+of this from August to March.) I have had extremely positive feedback from Monica about my work and have produced not only the cleansed full and partial aggregated
+files from over 4000 raw files over 15 weeks but gave them valuable advice about the data and how to fix it. This data has been used by many internal teams as well as
+BEIS, Energy UK and Citizen's Advice so it was nice to hear positive comments on both the DDaT town hall and Jonathan's weekly call.
+
+The RFI work often entailed working late into the evening and on bank holiday Mondays but my efforts reduced the time lag to clean, aggregate and share the submissions
+from an initial 13 days to 8, 6, 4 and finally 1 day between close of acceptance window and data ready. I also gave them heatmaps, graphs and visualisations to help
+analyse the data.
+
+Over and above this, I was approached to help Retail to design version 2 of the RFI templates which goes out next week and I have incorporated many improvements from
+locked cells and frozen panes to linked dropdown lists and validated cell values in order to make the form simpler and remove the opportunity for user error.
+
+Aside from these two accomplishments, I've continued my line management role, worked on pipeline design with the engineers, helped the team run Complaints DAGs
+and proof-read documentation for Confluence.
+
+I also worked with the MIO team at short notice to assist in creating dummy data and teaching them my script for generating suitable test data for their pipeline, I've
+contacted our Lloyds Non-exec Director to start discussions with their data team on best practice and am about to start work on ED2 templates for RIIO2. I am also
+helping to define the team's future place in the overall Ofgem data-centric strategy and trying to keep up morale in the DBAs at a time when our place is unclear.
+
+All of this was performed working from home with the background of the Covid pandemic and just after our team was more than halved with the cessation of the
+Valtech contract and other members transferring or being seconded or redeployed.
+
+Therefore, I think I've achieved a very strong quarter and look forward to the exciting changes of the restructured Data Analytics work going forward in Ofgem.

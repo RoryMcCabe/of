@@ -1,0 +1,13 @@
+This may not be a problem to analysis methods that are not sensitive to missing values but that reduces your choices of usable commands and aggregation.
+
+If attr1, 2 or 4 are numeric, we could fill with the mean or median or back/fwd fill from nearest cells especially if we can aggregate similar types or subgroups with data from other columns. Text data could be coded with 'na' or an agreed string. Catagorical or boolean data may fill in the value with highest frequency or a range that preserves the average.
+
+Since attr3 is more than half absent, we should consider dropping this column or go back to the source to try and improve it depending on the collection method and accuracy required, i.e. if it was medical data.
+
+We could code the missing cells with an agreed value to read in but exclude from certain computations or predict a value taking note of the bias it may add
+
+We could consider dropping rows if their missing values are random and the resulting dataset is not too small to work on.
+
+##
+
+Utilised my MSc (Data Analytics) 1st Class Honours degree and 29 years of previous experience to help the government energy regulator to import, clean, aggregate and filter datasets from suppliers and other government departments, define a catalog of internal datasets, improve bsiness processes and build pipelines in an agile environment. Received intenal awards and highest reviews from peers and stakeholders.
