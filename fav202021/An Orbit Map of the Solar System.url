@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=https://tabletopwhale.com/2019/06/10/the-solar-system.html
+[DOC_indicator-north]
+BASEURL=https://tabletopwhale.com/2019/06/10/the-solar-system.html
+ORIGURL=
+[DOC_indicator-south]
+BASEURL=https://tabletopwhale.com/2019/06/10/the-solar-system.html
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://tabletopwhale.com/2019/06/10/the-solar-system.html
+IconFile=https://tabletopwhale.com/favicon.ico
+IconIndex=1

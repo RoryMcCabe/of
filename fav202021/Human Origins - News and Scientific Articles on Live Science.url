@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://www.livescience.com/topics/human-origins
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://www.livescience.com/topics/human-origins
+IconFile=https://vanilla.futurecdn.net/livescience/194363/favicon.ico
+IconIndex=1
