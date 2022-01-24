@@ -1,0 +1,23 @@
+powershell -NoProfile -Command "Get-ChildItem '*.csv'|ForEach-Object{\"`nGO\";Get-Content $_.FullName 
+-Enc UTF8;\"\"}|Set-Content 'C:\users\mccaber\m13.csv' -Enc UTF8"
+
+powershell . "Get-ChildItem . | Select-String '^LineToKeep' | foreach {$_.Line}
+
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/out-file?view=powershell-7.1&viewFallbackFrom=powershell-6
+
+Get-Content C:\users\mccaber\m13.csv | out-file -encoding utf-8 C:\users\mccaber\m13out.csv
+
+
+
+
+sed -zbi "1s/^\xEF\xBB\xBF//" filepath   # requires to download sed 4.4 for windows
+
+sed -i $'1s/^\uFEFF//' file.txt
+or
+sed "$(printf '1s/^\357\273\277//)" file.txt
+
+or
+
+get-content somefile.txt | %{$_ -replace "expression","replace"}
+
+c:\users\mccaber\appdata\local\programs\git\usr\bin\vim -c ":set nobomb" -c ":wq" npc_m13_uncertainty_mechanisms_gather.csv
