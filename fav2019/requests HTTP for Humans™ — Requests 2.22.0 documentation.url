@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://2.python-requests.org/en/master/
+[DOC_twitter-widget-0]
+BASEURL=https://platform.twitter.com/widgets/follow_button.bb9f4b065c53172f0378057aff0cb3f7.en.html
+ORIGURL=https://platform.twitter.com/widgets/follow_button.bb9f4b065c53172f0378057aff0cb3f7.en.html#dnt=false&id=twitter-widget-0&lang=en&screen_name=kennethreitz&show_count=false&show_screen_name=true&size=m&time=1559638958089
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://2.python-requests.org/en/master/
+IconFile=https://2.python-requests.org/favicon.ico
+IconIndex=1

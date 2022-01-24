@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://www.periscopedata.com/blog/4-ways-to-join-only-the-first-row-in-sql
+[DOC_MktoForms2XDIframe]
+BASEURL=https://app-ab25.marketo.com/index.php/form/XDFrame
+ORIGURL=https://app-ab25.marketo.com/index.php/form/XDFrame
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://www.periscopedata.com/blog/4-ways-to-join-only-the-first-row-in-sql
+IconFile=https://daks2k3a4ib2z.cloudfront.net/589e47d231ee752554896ef9/59f9ddb7c9a5280001e51b21_favico-2017.png
+IconIndex=1

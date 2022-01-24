@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=https://www.thinkbroadband.com/speedtest
+[DOC_sovrn_ad_unit_300521_async]
+BASEURL=https://www.thinkbroadband.com/speedtest
+ORIGURL=about:blank
+[DOC_aswift_0]
+BASEURL=https://www.thinkbroadband.com/speedtest
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://www.thinkbroadband.com/speedtest
+IconFile=https://www.thinkbroadband.com/favicon.ico
+IconIndex=1

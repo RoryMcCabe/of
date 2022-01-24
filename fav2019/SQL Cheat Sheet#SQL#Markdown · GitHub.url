@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://gist.github.com/janikvonrotz/6e27788f662fcdbba3fb
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://gist.github.com/janikvonrotz/6e27788f662fcdbba3fb
+IconFile=https://github.githubassets.com/favicon.ico
+IconIndex=1

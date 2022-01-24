@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
+IconFile=https://en.wikipedia.org/static/favicon/wikipedia.ico
+IconIndex=1

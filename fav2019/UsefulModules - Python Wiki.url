@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://wiki.python.org/moin/UsefulModules
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://wiki.python.org/moin/UsefulModules
+IconFile=https://wiki.python.org/favicon.ico
+IconIndex=1

@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households
+[DOC__hjRemoteVarsFrame]
+BASEURL=https://vars.hotjar.com/rcj-da10bd4908deb9e19dfde013ec3fe4ff.html
+ORIGURL=https://vars.hotjar.com/rcj-da10bd4908deb9e19dfde013ec3fe4ff.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households
+IconFile=https://data.london.gov.uk/wp-content/themes/bulma-london/img/favicon/favicon.ico
+IconIndex=1

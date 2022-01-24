@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://pypi.org/project/sharepoint/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://pypi.org/project/sharepoint/
+IconFile=https://pypi.org/static/images/favicon.6a76275d.ico
+IconIndex=1

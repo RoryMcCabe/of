@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://www.git-tower.com/blog/git-cheat-sheet/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://www.git-tower.com/blog/git-cheat-sheet/
+IconFile=https://www.git-tower.com/blog/assets/img/favicon.ico
+IconIndex=1

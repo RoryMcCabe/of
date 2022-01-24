@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=https://stackoverflow.com/questions/42918531/scrape-the-next-pages-in-python-using-beautifulsoup
+[DOC_google_ads_iframe_/248424177/stackoverflow.com/lb/question-pages_0]
+BASEURL=https://stackoverflow.com/questions/42918531/scrape-the-next-pages-in-python-using-beautifulsoup
+ORIGURL=
+[DOC_google_ads_iframe_/248424177/stackoverflow.com/mlb/question-pages_0]
+BASEURL=https://stackoverflow.com/questions/42918531/scrape-the-next-pages-in-python-using-beautifulsoup
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://stackoverflow.com/questions/42918531/scrape-the-next-pages-in-python-using-beautifulsoup
+IconFile=https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d
+IconIndex=1

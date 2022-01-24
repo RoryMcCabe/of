@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=https://stackoverflow.com/questions/22813814/clearly-documented-reading-of-emails-functionality-with-python-win32com-outlook
+[DOC_google_ads_iframe_/248424177/stackoverflow.com/mlb/question-pages_0]
+BASEURL=https://stackoverflow.com/questions/22813814/clearly-documented-reading-of-emails-functionality-with-python-win32com-outlook
+ORIGURL=
+[DOC_google_ads_iframe_/248424177/stackoverflow.com/sb/question-pages_0#57]
+BASEURL=https://tpc.googlesyndication.com/safeframe/1-0-32/html/container.html
+ORIGURL=about:blank
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://stackoverflow.com/questions/22813814/clearly-documented-reading-of-emails-functionality-with-python-win32com-outlook
+IconFile=https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d
+IconIndex=1

@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://www.londontheatredirect.com/AllEvents.aspx?gclid=EAIaIQobChMI7omz27zn5QIVF-R3Ch2q6AwCEAAYASABEgKr0vD_BwE
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://www.londontheatredirect.com/AllEvents.aspx?gclid=EAIaIQobChMI7omz27zn5QIVF-R3Ch2q6AwCEAAYASABEgKr0vD_BwE
+IconFile=https://www.londontheatredirect.com/favicon.ico
+IconIndex=1

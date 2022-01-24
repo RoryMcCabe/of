@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://stackoverflow.com/questions/3727916/how-to-use-xlrd-xldate-as-tuple
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://stackoverflow.com/questions/3727916/how-to-use-xlrd-xldate-as-tuple
+IconFile=https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d
+IconIndex=1

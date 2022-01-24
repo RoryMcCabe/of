@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://opendata.cityofnewyork.us/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://opendata.cityofnewyork.us/
+IconFile=https://opendata.cityofnewyork.us/wp-content/themes/opendata-wp/assets/img/favicon.ico
+IconIndex=1
