@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://www.ofgem.gov.uk/data-portal/electricity-supply-market-shares-company-domestic-gb
+[DOC__hjRemoteVarsFrame]
+BASEURL=https://vars.hotjar.com/rcj-da10bd4908deb9e19dfde013ec3fe4ff.html
+ORIGURL=https://vars.hotjar.com/rcj-da10bd4908deb9e19dfde013ec3fe4ff.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://www.ofgem.gov.uk/data-portal/electricity-supply-market-shares-company-domestic-gb
+IconFile=https://www.ofgem.gov.uk/sites/default/files/favicon.ico
+IconIndex=1

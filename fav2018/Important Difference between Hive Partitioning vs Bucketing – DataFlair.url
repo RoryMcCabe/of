@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://data-flair.training/blogs/hive-partitioning-vs-bucketing/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://data-flair.training/blogs/hive-partitioning-vs-bucketing/
+IconFile=https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/2016/05/cropped-DataFlair_Logo_Final_101x46_Transp-150x150.png
+IconIndex=1

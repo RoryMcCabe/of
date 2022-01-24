@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
+IconFile=https://cdn.datacamp.com/main-app/assets/favicon-335cd0394b32102a39221d79e5fd7e51078e6d32a0c8aea59676a6869f84e9d8.ico
+IconIndex=1

@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.energynetworks.org/info/faqs/glossary.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+IDList=
+URL=http://www.energynetworks.org/info/faqs/glossary.html
+IconFile=http://www.energynetworks.org/favicon.ico
+IconIndex=1

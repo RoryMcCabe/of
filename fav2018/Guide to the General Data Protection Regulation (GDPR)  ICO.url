@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/
+IconFile=https://ico.org.uk/favicon.ico
+IconIndex=1

@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=https://jeffdelaney.me/blog/useful-snippets-in-pandas/
+[DOC_dsq-app804_fb_xdm_frame_https]
+BASEURL=https://staticxx.facebook.com/connect/xd_arbiter/r/mp2v3DK3INU.js?version=42
+ORIGURL=https://staticxx.facebook.com/connect/xd_arbiter/r/mp2v3DK3INU.js?version=42#channel=f10c1fb700b4cc6&origin=https%3A%2F%2Fdisqus.com
+[DOC_dsq-app804_ssIFrame_google]
+BASEURL=https://accounts.google.com/o/oauth2/iframe
+ORIGURL=https://accounts.google.com/o/oauth2/iframe#origin=https%3A%2F%2Fdisqus.com&rpcToken=216614435.9559296
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://jeffdelaney.me/blog/useful-snippets-in-pandas/
+IconFile=https://jeffdelaney.me/assets/favicon.png
+IconIndex=1
