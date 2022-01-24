@@ -1,0 +1,106 @@
+Supplier,Note,Diff,Ingested,Joined,Transformed,Monday,53 normalized issues
+Affect Energy,,,1525440,105700,105700,15050,
+Angelic Energy,WL,,139030,80230,80230,11490,angelic energy       
+Avro Energy,,,1216656,54572,54572,7868,
+Beam Energy,WL,,13800,9560,9560,1340,
+Better Energy,,,1470994,197876,197876,28350,better energy        
+Boost,WL,,175424,57752,57752,8256,boost                
+Breeze,,,99052,9959,9959,1394,breeze               
+Brighter World Energy,WL,,1345680,246680,246680,35280,brighter world energy
+Brilliant Energy,,,1060360,113750,113750,16534,
+Bristol Energy,Dup,,3012492,697694,697694,99578,
+Bristol Energy Limited,Dup,,6330158,527532,527532,75426,
+British Gas,,,13172936,1671810,1671810,238798,
+Bulb,,,120834,102186,102186,14658,bulb                 
+Cardiff Energy,,,198316,55656,55656,7966,cardiff energy       
+CitizEn Energy,WL,,125610,56670,56670,8130,citizen energy       
+Co-op Energy,Dup,,199582,24754,24754,3688,
+Co-operative Energy,Dup,,4915032,1297532,1297532,185490,
+Daligas,,,209342,34216,34216,4886,
+E,,,442094,114531,114531,16398,
+E.ON,,,39717908,2835992,2835992,404094,
+Ebico,WL,,1822240,1116444,1116444,159838,ebico                
+Economy Energy,,,821184,271418,271418,38864,
+Economy Seven Energy,WL,,40488,11858,11858,1722,economy seven energy 
+Ecotricity,,,1464848,656992,656992,93800,
+EDF Energy,,,18209296,1609048,1609048,227374,edf energy           
+Electraphase,,,20748,10808,10808,1540,electraphase         
+ENGIE,,,9958788,1190896,1190896,171108,
+ENSTROGA,,,92778,27227,27227,3891,enstroga             
+Entice Energy,,,146482,35434,35434,5138,
+ESB,Dup,,15960,13720,13720,1960,esb                  
+ESB Energy,Dup,,892458,140196,140196,20202,
+Eversmart Energy,,,79076,19164,19164,2784,
+extraenergy,,,6124524,420448,420448,60242,extraenergy          
+first:utility,Dup of Shell,,23075448,660896,660896,94256,first:utility        
+Fischer Energy,,,150570,121380,121380,17388,
+Flow Energy,WL,,2166962,302442,302442,43302,
+Fosse Energy,WL,,28635,15255,15255,2185,fosse energy         
+Foxglove Energy,,,4620,896,896,168,
+Future Energy,,,20592,3222,3222,458,future energy        
+GB Energy Supply,WL,,2192370,376584,376584,53552,gb energy supply     
+Gen4U,,,622596,32748,32748,4712,gen4u                
+Glide,WL,1,99820,70,70,,glide                
+GnERGY,,,732849,283647,283647,40599,
+Go Effortless Energy,,,1142070,125595,125595,18000,go effortless energy 
+Good Energy,,,914018,430706,418946,59818,
+Great North Energy,WL,,42920,11440,11440,1580,great north energy   
+Green Energy UK,,,271810,214186,214186,30632,green energy uk      
+Green Network Energy,,,6722884,289254,289254,41384,
+Green Star Energy,,,50039626,4885370,4885370,697858,
+Gulf Gas & Power UK,,,320376,15582,15582,2226,gulf gas & power uk  
+Igloo Energy,,,24778,24466,24466,3510,
+Iresa,,,401016,51352,51352,7336,iresa                
+iSupplyEnergy,,,5088674,322109,322109,46196,isupplyenergy        
+LECCY,WL,,204960,101640,101640,14520,leccy                
+London Energy,,7,637000,,,,london energy        
+Lumo Energy,WL,,57486,8736,8736,1248,lumo energy          
+M&S Energy,WL,,6522908,1282260,1282260,182658,m&s energy           
+Nabuh Energy,,,373702,157626,157626,22834,
+Northumbria Energy,WL,,143220,12600,12600,1680,
+npower,,,20688921,1989947,1989947,284261,
+Octopus Energy,,,2562308,210644,210644,30016,
+Oink Energy,,,7336,7336,7336,1036,oink energy          
+OneSelect,,,465630,44220,44220,6300,oneselect            
+Open4Energy,,,2112,2112,2112,288,
+Orbit Energy,,,301434,84700,84700,11970,
+Our Power,,,111624,67248,67248,9680,
+Outfox the Market,WL,,511210,134778,134778,19292,outfox the market    
+Ovo Energy,,,10629564,931564,931564,133028,ovo energy           
+People's Energy,,,43036,30772,30772,4424,
+PFP Energy,,,7504519,340134,340134,48688,
+Powershop,WL,,1221356,115684,115684,16628,powershop            
+Pure Planet,,,46340,38496,38496,5518,
+Qwest Energy,WL,,57600,30656,30656,4398,qwest energy         
+RAM Energy,WL,,164510,79910,79910,11530,ram energy           
+Robin Hood Energy,,,3078292,963662,963662,137802,
+Sainsbury's Energy,WL,,6042778,789208,789208,112560,sainsbury's energy   
+ScottishPower,,,41157538,4177964,3830064,547536,scottishpower        
+SEEBOARD Energy,,7,637000,,,,seeboard energy      
+Shell Energy,Dup of First,,366506,1988,1988,266,
+Simplicity Energy,,,48869,7722,7722,1152,
+So Energy,,,2002980,87150,87150,12460,
+Solarplicity,,,2256492,409626,409626,58408,
+Spark Energy,,,3137666,779884,779884,111356,
+SSE,Dup,,17191988,2629592,2629592,374584,
+SSE Atlantic,Dup,7,843668,,,,sse atlantic         
+SSE Scottish Hydro,Dup,7,16772280,,,,sse scottish hydro   
+SSE Southern Electric,Dup,7,16859582,,,,sse southern electric
+SSE Swalec,Dup,7,16773476,,,,sse swalec           
+SWEB,,7,637000,,,,sweb                 
+Symbio Energy,,,2968,2240,2240,336,
+The Energy Deal,WL,,1005480,58240,58240,8260,the energy deal      
+Together Energy,,,857444,142660,142660,20440,
+Tonik,,,1347276,170786,170786,24542,tonik                
+Toto Energy,Dup,,1209438,273346,273346,38884,
+Toto Energy Amex,Dup,,1568,1568,1568,224,toto energy amex     
+USIO,,,100002,13492,13492,1964,usio                 
+Utilita,,,388136,323232,323232,46312,
+Utility Point,,,965102,45333,45333,6844,
+Utility Warehouse,,,3533040,1356040,1356040,194040,
+Woodland Trust Energy,WL,,846984,96632,96632,13920,woodland trust energy
+Yorkshire Energy,,,199528,28392,28392,4088,
+Your Energy Sussex,WL,,114390,67870,67870,9670,your energy sussex   
+Zebra Power,,,339752,63644,63644,9072,
+Zog Energy,,,913710,96054,96054,13748,
+,,,,,,,Supplier             

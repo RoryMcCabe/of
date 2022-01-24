@@ -1,0 +1,35 @@
+HTML1300: Navigation occurred.
+rorymccabe
+CSP14309: Unknown directive 'base-uri' in Content-Security-Policy - directive will be ignored.
+CSP14309: Unknown directive 'form-action' in Content-Security-Policy - directive will be ignored.
+CSP14309: Unknown directive 'frame-ancestors' in Content-Security-Policy - directive will be ignored.
+CSP14309: Unknown directive 'worker-src' in Content-Security-Policy - directive will be ignored.
+DOM7011: The code on this page disabled back and forward caching. For more information, see: http://go.microsoft.com/fwlink/?LinkID=291337
+rorymccabe
+HTML1500: Tag cannot be self-closing. Use an explicit closing tag.
+rorymccabe (92,5)
+HTML1500: Tag cannot be self-closing. Use an explicit closing tag.
+rorymccabe (288,5)
+HTML1500: Tag cannot be self-closing. Use an explicit closing tag.
+rorymccabe (327,5)
+HTML1500: Tag cannot be self-closing. Use an explicit closing tag.
+rorymccabe (367,5)
+HTML1500: Tag cannot be self-closing. Use an explicit closing tag.
+rorymccabe (407,5)
+CSP14312: Resource violated directive 'script-src 'self' 'unsafe-inline' 'unsafe-eval' *.datacamp.com *.datacamp-staging.com https://*.googletagmanager.com https://*.google-analytics.com https://browser.sentry-cdn.com https://js.braintreegateway.com https://*.zuora.com https://*.paypal.com https://js-agent.newrelic.com https://bam.nr-data.net https://maps.googleapis.com https://assets.calendly.com http://com-datacamp.mini.snplow.net https://cdn.jsdelivr.net https://*.algolia.net https://*.stripe.com https://*.zdassets.com https://*.zopim.com https://*.gstatic.com https://www.google.com https://cdnjs.cloudflare.com https://script.tapfiliate.com https://cdn.onesignal.com https://onesignal.com https://static.hotjar.com https://script.hotjar.com https://*.linkedin.com https://sjs.bizographics.com/insight.min.js https://bat.bing.com/bat.js https://a.quora.com/qevents.js https://connect.facebook.net https://www.googleadservices.com https://www.googletagmanager.com https://*.googlesyndication.com https://tagmanager.google.com http://tagmanager.google.com https://snap.licdn.com/li.lms-analytics/insight.min.js https://www.redditstatic.com https://static.ads-twitter.com https://platform.twitter.com https://analytics.twitter.com https://cdn.taboola.com https://*.marketo.net https://*.marketo.com https://trc.taboola.com https://pixel.admedia.com https://x.clearbit.com/v1/p https://dna8twue3dlxq.cloudfront.net/js/profitwell.js https://disutgh7q0ncc.cloudfront.net/beacon.js https://cookiepro.blob.core.windows.net https://cookie-cdn.cookiepro.com https://code.jquery.com https://geolocation.onetrust.com https://www.recaptcha.net/recaptcha/api.js data:' in Content-Security-Policy: https://x.clearbitjs.com/v1/pk_f0bede43c60946ad2c49a9e735500cb1/clearbit.min.js. Resource will be blocked.
+CSP14312: Resource violated directive 'img-src 'self' *.datacamp.com *.datacamp-staging.com https://s3.amazonaws.com https://checkout.paypal.com https://cdnjs.cloudflare.com https://www.gstatic.com https://res.cloudinary.com https://maps.googleapis.com https://maps.gstatic.com https://www.facebook.com https://q.quora.com https://bat.bing.com https://*.ads.linkedin.com https://www.google.com https://*.g.doubleclick.net https://*.google-analytics.com https://www.googletagmanager.com https://*.adsymptotic.com https://*.atdmt.com https://*.linkedin.com https://t.co https://cds.taboola.com https://cookiepro.blob.core.windows.net https://cookie-cdn.cookiepro.com https://*.stripe.com https://dna8twue3dlxq.cloudfront.net/images/company_logos/datacamp.png https://*.profitwell.com https://*.zopim.io https://*.zopim.com blob data:' in Content-Security-Policy: https://alb.reddit.com/rp.gif?ts=1612641781085&id=t2_4gn70o3o&event=PageVisit&uuid=5f2d73ff-aad2-48e7-b88b-e102208c62d4&s=7sCm8wPFb8MFssDWmHupHNFk1FywBlBmvD%2BssGc0NVE%3D. Resource will be blocked.
+OneSignal: Using fallback ES5 Stub for backwards compatibility.
+instrument.ts (125,9)
+CSP14312: Resource violated directive 'img-src 'self' *.datacamp.com *.datacamp-staging.com https://s3.amazonaws.com https://checkout.paypal.com https://cdnjs.cloudflare.com https://www.gstatic.com https://res.cloudinary.com https://maps.googleapis.com https://maps.gstatic.com https://www.facebook.com https://q.quora.com https://bat.bing.com https://*.ads.linkedin.com https://www.google.com https://*.g.doubleclick.net https://*.google-analytics.com https://www.googletagmanager.com https://*.adsymptotic.com https://*.atdmt.com https://*.linkedin.com https://t.co https://cds.taboola.com https://cookiepro.blob.core.windows.net https://cookie-cdn.cookiepro.com https://*.stripe.com https://dna8twue3dlxq.cloudfront.net/images/company_logos/datacamp.png https://*.profitwell.com https://*.zopim.io https://*.zopim.com blob data:' in Content-Security-Policy: https://www.google.co.uk/ads/ga-audiences?t=sr&aip=1&_r=4&slf_rd=1&v=1&_v=j87&tid=UA-39297847-1&cid=1541403986.1612640343&jid=738314517&_u=SCCAgEAjAAAAAE~&z=1495981802. Resource will be blocked.
+SEC7120: Origin https://www.datacamp.com not found in Access-Control-Allow-Origin header.
+rorymccabe
+SCRIPT7002: XMLHttpRequest: Network Error 0x80700013, Could not complete the operation due to error 80700013.
+rorymccabe
+SEC7120: Origin https://www.datacamp.com not found in Access-Control-Allow-Origin header.
+rorymccabe
+SCRIPT7002: XMLHttpRequest: Network Error 0x80700013, Could not complete the operation due to error 80700013.
+rorymccabe
+SEC7120: Origin https://www.datacamp.com not found in Access-Control-Allow-Origin header.
+rorymccabe
+SCRIPT7002: XMLHttpRequest: Network Error 0x80700013, Could not complete the operation due to error 80700013.
+rorymccabe
