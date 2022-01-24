@@ -1,0 +1,22 @@
+[?22/?07/?2020 15:26]  Lewis Edgar:  
+Hi ROry, how do you edit the uneditable cells in excel?
+had some feedback from suppliers and just need to change the wording slightly of a couple of the questions in the templates
+ 
+[?22/?07/?2020 17:17]  Rory McCabe:  
+Sorry, only seeing this now Lewis as it disappeared behind Jonathan's call :) but the easiest way is to pass the changes on to me now and I'll edit the files. I had put a question to Monica at lunchtime about the process for version 2 and whether you guys needed to edit the submissions or just open and close them to check the contents for each submission and she hasn't got back to me yet but of course you will need the protection password if the process needs write access. I am only concerned about the side effects of this, i.e. the date format issues brought in by different Windows setup defaults.
+ 
+[?22/?07/?2020 17:19]  Lewis Edgar:  
+ah okay, I'm not too sure on that one, I'll let Monica decide
+ 
+[?22/?07/?2020 17:19]  Rory McCabe:  
+Let's discuss it tomorrow. Meanwhile send your changes and I'll do it now
+ 
+[?22/?07/?2020 17:19]  Lewis Edgar:  
+For Q40, 44 and 48 could you change "DD/PORB" to "domestic"
+ 
+[?22/?07/?2020 17:21]  Lewis Edgar:  
+thanks :)
+ 
+[?22/?07/?2020 17:29]  Rory McCabe:  
+done
+ 

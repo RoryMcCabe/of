@@ -1,0 +1,29 @@
+[?05/?01/?2021 15:41]  Rory McCabe:  
+Hi, how was your Christmas break? Just wondering where we are with the red and yellow tabs from the ED2 raw templates (ver2.2) - which are 'ready to code' now? I think the main 'to do' tabs are CV15, 19-22, 29 and C22...
+ 
+[?05/?01/?2021 15:41]  Dheeraj Viswanath:  
+Hi Rory, 
+yes good thanks hope yours was too! 
+
+sorry do you mean which of the tabs that are ready to code from version 2.2 that are red and yellow? 
+ 
+[?05/?01/?2021 15:42]  Rory McCabe:  
+yes
+ 
+[?05/?01/?2021 15:42]  Dheeraj Viswanath:  
+100% not sure to be honest, ill have a look at get back to you if that's okay? 
+ 
+[?05/?01/?2021 15:44]  Rory McCabe:  
+Sure, just coming out of the holiday coma and checking what is next. After all ready tabs are coded, we need to talk about user testing, real data and modelling the final output as well as any help you want with the data dictionary
+real data may be old DNO data they can send for testing which would help eliminate any remaining missing formulas and fix anchor text, etc.
+ 
+[?05/?01/?2021 15:45]  Dheeraj Viswanath:  
+yea still coming out of the holiday coma at the moment! Yes we do, also im assuming you've got a copy of the latest version? (the publication in dec?)
+yep
+ 
+[?05/?01/?2021 15:46]  Rory McCabe:  
+Working off the ver2.2 RAG list Chris sent as no change log yet
+ 
+[?05/?01/?2021 15:46]  Dheeraj Viswanath:  
+okay cool 
+ 

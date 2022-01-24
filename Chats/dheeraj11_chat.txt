@@ -1,0 +1,62 @@
+[?25/?03/?2021 14:35]  Rory McCabe:  
+Hi! When you are free, can you check the CV36 and 37 headers as they seem to have been pasted over and the units fields are inconsistent. Also CV37 disposals seems to be missing formulas at BP131-BQ132. Thanks
+ 
+[?25/?03/?2021 14:36]  Dheeraj Viswanath:  
+Hi 
+rory will check it right now 
+ 
+[?25/?03/?2021 14:38]  Dheeraj Viswanath:  
+sorry rory checking the headers now 
+which cells? 
+ah 
+ 
+[?25/?03/?2021 14:39]  Rory McCabe:  
+if you look across, the units change mid section from # to £
+ 
+[?25/?03/?2021 14:39]  Dheeraj Viswanath:  
+I see the units changing 
+was that the only issue?
+ 
+[?25/?03/?2021 14:39]  Rory McCabe:  
+some dashes for missing formulas
+above four and eight more in CV38 AS135-AT138
+ 
+[?25/?03/?2021 14:41]  Dheeraj Viswanath:  
+"some dashes for missing formulas" 
+cant seem to find any issues
+ 
+[?25/?03/?2021 14:42]  Rory McCabe:  
+in CV37 and 38
+ 
+[?25/?03/?2021 14:43]  Dheeraj Viswanath:  
+BP131-BQ132 lines are greyed out 
+in cv37
+for disposals 
+ 
+[?25/?03/?2021 14:44]  Rory McCabe:  
+that correct?
+ 
+[?25/?03/?2021 14:46]  Dheeraj Viswanath:  
+yes thats correct
+ 
+[?25/?03/?2021 14:47]  Rory McCabe:  
+great. Then the eight dashes in CV38 come out as zeroes 
+bottom right of additions block
+ 
+[?25/?03/?2021 14:48]  Dheeraj Viswanath:  
+thanks 
+corrected
+ 
+[?25/?03/?2021 14:50]  Rory McCabe:  
+TY
+ 
+[?25/?03/?2021 14:56]  Rory McCabe:  
+Sorry, just to confirm, was the header unit an issue and, if so, is it fixed as it is still mixed in SharePoint
+ 
+[?25/?03/?2021 15:00]  Dheeraj Viswanath:  
+fixed now? 
+https://ofgemcloud.sharepoint.com/sites/PC/Shared%20Documents/Electricity%20Distribution/ED2%20Business%20Plan%20Data%20Templates/BPDT%20Data%20Template/BPDT%20Final/riio-ed2_draft_business_plan_data_templates_v4.0.xlsx?web=1 
+ 
+[?25/?03/?2021 15:01]  Rory McCabe:  
+Yes thanks
+ 

@@ -1,0 +1,17 @@
+[?08/?06/?2021 16:16]  Dheeraj Viswanath:  
+hi rory, got a quick question on the stripping process for the ED BPDT 
+
+there's a line of code in the 40strip worksheets saying 'from utils import strip_and_save_xlsx' - when running the code this module is not found, any idea on the issue? 
+
+
+no worries if you cant look at this now i can send an email 
+ 
+[?09/?06/?2021 13:08]  Rory McCabe:  
+Sorry, was swamped yesterday  - you can open and run utils.py from <N:\NPC-DS Project\ED\python> in Python/Spyder and it will define the needed functions
+ 
+[?09/?06/?2021 14:47]  Rory McCabe:  
+If you still need to chat, I might be a bit delated till after 3...
+ 
+[?09/?06/?2021 14:49]  Dheeraj Viswanath:  
+would be great just to walkthrough this (feel like my permissions from the N drive might be a problem 
+ 

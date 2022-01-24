@@ -1,0 +1,51 @@
+[?28/?04/?2020 12:15] Lewis Edgar: 
+Hi Rory, are you modifying any of the files in <K:\User Centred Data Services\Beta\retail_data\covid_19_rfi\Downloads\TEST> (15-04-2020 1015) ?
+[?28/?04/?2020 12:17] Rory McCabe: 
+Yes, I ran my script pn them last night and just trying to fix a few issues
+*on
+[?28/?04/?2020 12:17] Lewis Edgar: 
+I think it's reverting some of the dates back to american
+[?28/?04/?2020 12:17] Rory McCabe: 
+Trying to fix that with Nabuh - it is a pain
+[?28/?04/?2020 12:18] Lewis Edgar: 
+just noticed something similar with Orsted as well
+[?28/?04/?2020 12:18] Rory McCabe: 
+and Marble
+! of the Orsted files - Quan 6/4
+1
+and 1 REgent
+[?28/?04/?2020 12:22] Lewis Edgar: 
+okay! was worried it was more, but thats not so bad
+fixed the Orsted one now, will look at Regent when I get to it
+[?28/?04/?2020 12:24] Rory McCabe: 
+Just those 4 suppliers so far but over 100 new files since I ran it last so running it again now
+[?28/?04/?2020 12:45] Rory McCabe: 
+Could you take a look at BP A Qual 13/4 - I think it is a tabbed file that is stopping the script?
+and Electroroute A Qual 6/4
+[?28/?04/?2020 12:48] Rory McCabe: 
+and 13/4
+[?28/?04/?2020 13:16] Lewis Edgar: 
+yeah will look now
+[?28/?04/?2020 13:18] Lewis Edgar: 
+the columns have been converted to text in one column
+[?28/?04/?2020 13:21] Rory McCabe: 
+Yes, tab-delimited, can you fix?
+5 in all with Endo A Qual 6/4 and 13/4
+[?28/?04/?2020 13:22] Lewis Edgar: 
+I'll ask others to fix as I've got my own suppliers to deal with just now
+[?28/?04/?2020 13:22] Rory McCabe: 
+I think Michael did some last week
+[?28/?04/?2020 13:22] Lewis Edgar: 
+we had the same issue with MVV and Orbit too
+[?28/?04/?2020 13:22] Rory McCabe: 
+Sorry, I know each have their own
+[?28/?04/?2020 13:23] Lewis Edgar: 
+could you make a list like last week of all the ones tripping the email chain and we can split them up?
+[?28/?04/?2020 13:28] Rory McCabe: 
+Yeah, working on that
+[?28/?04/?2020 13:28] Lewis Edgar: 
+thanks!
+[?29/?04/?2020 12:20] Lewis Edgar: 
+Hi Rory, is there an easy way to fix the tab column issue with the CSVs?
+[?29/?04/?2020 12:21] Rory McCabe: 
+I've done nearly 30 of them yesterday and today and it takes ages if your Excel looks for printers each time - open a blank file and use the import wizard and then save as the filename.

@@ -1,0 +1,85 @@
+[?29/?05/?2020 12:06]  Lewis Edgar:  
+Hi Rory, we've split the issues between us (based on our original allocation)
+should be done soon
+ 
+[?29/?05/?2020 12:07]  Rory McCabe:  
+Did all the dates just now
+ 
+[?29/?05/?2020 12:07]  Lewis Edgar:  
+ahh sorry I should have said sooner!
+ 
+[?29/?05/?2020 12:08]  Rory McCabe:  
+if you fix the 2 extra rows and 2 negative values, I'll run the script again
+ 
+[?29/?05/?2020 12:08]  Lewis Edgar:  
+I think Winifred has done them already
+we're happy to split any issues going forward!
+ 
+[?29/?05/?2020 12:09]  Rory McCabe:  
+Also, Axpo only has 3 files - missing a B Quan 18/5 file
+I know - just got into a flow doing them so kept going
+ 
+[?29/?05/?2020 12:09]  Lewis Edgar:  
+Think Axpo is missing all B quants
+ 
+[?29/?05/?2020 12:10]  Rory McCabe:  
+OK, thanks. Will run the script now then
+ 
+[?29/?05/?2020 12:17]  Rory McCabe:  
+Still 2 Endco and 2 Gulf files to fix ectra rows / neg values 
+*extra
+ 
+[?29/?05/?2020 12:18]  Lewis Edgar:  
+will do them now!
+sorry was told they were done
+ 
+[?29/?05/?2020 12:19]  Rory McCabe:  
+Extra rows are due to three separate answers to the last question and they've done this before. Neg values presumably just need the '-' dropped ...??
+ 
+[?29/?05/?2020 12:21]  Rory McCabe:  
+I'd just prefer if someone in the business decided how to fix these
+ 
+[?29/?05/?2020 12:21]  Lewis Edgar:  
+yeah fixed Endco 
+ 
+[?29/?05/?2020 12:23]  Lewis Edgar:  
+Gulf fixed as well
+ 
+[?29/?05/?2020 12:30]  Rory McCabe:  
+TY
+ 
+[?29/?05/?2020 12:33]  Rory McCabe:  
+One last issue with dates: Hudson (Green Star) B Quan has 29/04/2020 for the 18/05/2020 submission
+ 
+[?29/?05/?2020 12:39]  Rory McCabe:  
+and do you want B to still have Bruntwood or will I leave it out as it has a lot of issues?
+ 
+[?29/?05/?2020 13:44]  Rory McCabe:  
+Any update Lewis?
+ 
+[?29/?05/?2020 13:44]  Lewis Edgar:  
+ah sorry, went for my lunch and missed this message
+still leave it out for now please
+ 
+[?29/?05/?2020 13:45]  Lewis Edgar:  
+Hudson fixed now as well
+ 
+[?29/?05/?2020 13:48]  Rory McCabe:  
+TY, so will I run A/B with or without Bruntwood as it really screws up B if not A?
+Sorry, just saw your answer
+I'll run it now
+without Blue Green and Bruntwood for both
+A and B
+ 
+[?29/?05/?2020 13:49]  Lewis Edgar:  
+cheers!
+ 
+[?29/?05/?2020 13:50]  Rory McCabe:  
+You said 'still' above but I've always added it before. It is just that Dora has enough issues with B already and, if I leave it out of B, it is easier to leave it out of A as well.
+ 
+[?29/?05/?2020 13:51]  Lewis Edgar:  
+ah, if Dora is having issues and needs B left out then happy for you to leave A out as well
+ 
+[?29/?05/?2020 13:52]  Rory McCabe:  
+OK
+ 

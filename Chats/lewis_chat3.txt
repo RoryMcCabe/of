@@ -1,0 +1,85 @@
+[?11/?06/?2020 14:17]  Lewis Edgar:  
+Hi Rory, we're having an issue with the Python Script converting the files to CSV in the download
+ 
+[?11/?06/?2020 14:22]  Lewis Edgar:  
+I'm getting the error: ModuleNotFoundError: No module named 'functions' 
+ 
+[?11/?06/?2020 14:23]  Rory McCabe:  
+It calls the functions subfolder which is normally i  the path but you can add it manually
+ 
+[?11/?06/?2020 14:24]  Lewis Edgar:  
+thanks, I dont really know how the script works, just been told to copy and paste it into Python haha
+how do I add it manually?
+ 
+[?11/?06/?2020 14:26]  Rory McCabe:  
+I'm looking for the commands now...
+I've got the mhere somewhere
+ 
+[?11/?06/?2020 14:34]  Lewis Edgar:  
+got them now!
+ 
+[?11/?06/?2020 14:36]  Rory McCabe:  
+yes? It is sys.path or sys.append and you add the folder where functions are defined in their pwn py files
+*own
+ 
+[?11/?06/?2020 14:37]  Lewis Edgar:  
+I'm not sure what that means
+really dont know anything about the script
+ 
+[?11/?06/?2020 14:37]  Rory McCabe:  
+ok, give me a few minutes. I know I have it here somewhere :) 
+ 
+[?11/?06/?2020 15:08]  Rory McCabe:  
+Try adding the following:
+ 
+[?11/?06/?2020 15:09]  Rory McCabe:  
+ import sys
+ sys.path.append("K:/User Centred Data Services/Beta/retail_data/retail_data_scripts")
+at the top
+ 
+[?11/?06/?2020 15:10]  Lewis Edgar:  
+after import os?
+ 
+[?11/?06/?2020 15:10]  Rory McCabe:  
+yes
+ 
+[?11/?06/?2020 15:10]  Lewis Edgar:  
+ta, if I run again will it make more CSVs? dont want to clog up the folders as people still working in them
+ 
+[?11/?06/?2020 15:11]  Rory McCabe:  
+thought it didn't or couldn't run with the error
+if it had partially run, it should overwrite the files unless there is a random timestamp added
+ 
+[?11/?06/?2020 15:12]  Lewis Edgar:  
+yeah but did you not fix it and run it again?
+CSVs started appearing in the folder around 2.30
+ 
+[?11/?06/?2020 15:12]  Rory McCabe:  
+I didn't run anything
+ 
+[?11/?06/?2020 15:12]  Lewis Edgar:  
+hmm maybe it was Nick
+ 
+[?11/?06/?2020 15:12]  Rory McCabe:  
+Nick emailed he was working on it
+ 
+[?11/?06/?2020 15:13]  Lewis Edgar:  
+anyway, we have the CSVs in now (must have been Nick)
+ 
+[?11/?06/?2020 15:13]  Rory McCabe:  
+yeah - 12:20 email and then 3:06
+ 
+[?11/?06/?2020 15:13]  Lewis Edgar:  
+not sure how it worked for Nick but not me
+ 
+[?11/?06/?2020 15:13]  Rory McCabe:  
+his environment had the path right 
+OK, all good then?
+ 
+[?11/?06/?2020 15:14]  Lewis Edgar:  
+all good! I'll add that but you sent and test it next week
+thanks for your help :)
+ 
+[?11/?06/?2020 15:14]  Rory McCabe:  
+np
+ 

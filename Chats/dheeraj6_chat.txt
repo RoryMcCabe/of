@@ -1,0 +1,20 @@
+[?16/?02/?2021 13:57]  Rory McCabe:  
+Hi, just coding AP1 and RPEs: we need a unit row (# or £m), there are lots of missing formula (dashes) after dummy data i input in the yellow cells, there's no price base in AP1, no draft in RPE, percentage values look too high, RPE cells B23 and 35 need '£m' and can you double-check row H in RPE as it goes from unused to 1.0 to used? I know that is a lot in one go - can call you if you prefer. Thanks
+ 
+[?16/?02/?2021 14:54]  Dheeraj Viswanath:  
+will have a look - ill send the message to augustin too (he is the one who is the owner for the tab)
+ 
+[?16/?02/?2021 14:56]  Rory McCabe:  
+TY
+ 
+[?16/?02/?2021 17:31]  Dheeraj Viswanath:  
+<\\lonfs01\dept\Databases\NPC-DS Project\ED> 
+which folder are the worksheet questions in? 
+ 
+[?16/?02/?2021 17:31]  Rory McCabe:  
+data\raw
+added above as #108
+ 
+[?16/?02/?2021 17:32]  Dheeraj Viswanath:  
+ahh cheers
+ 

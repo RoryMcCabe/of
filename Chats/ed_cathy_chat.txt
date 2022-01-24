@@ -1,0 +1,101 @@
+[?18/?05/?2020 13:38] Edmond Omolu: 
+Good afternoon Sir. How was your weekend?
+[?18/?05/?2020 13:39] Rory McCabe: 
+Did a lot of furniture moving to make the house look different to cheer up my wife who is feeling  little cooped up
+You?
+[?18/?05/?2020 13:42] Edmond Omolu: 
+I hope that worked, mind your back though. I had a much better weekend than previous weeks as MIO started moving in the right direction, though did some work on how they will be supported. RDS now up and running. MIO team can upload data via their secure mechanism, so felt very good, and relaxed. 
+[?18/?05/?2020 13:44] Edmond Omolu: 
+How is the Covid-19 stuff you are working on coming along? 
+[?18/?05/?2020 13:45] Rory McCabe: 
+Well, slightly cleaner at source as some suppliers are using our validation tool but still 42 issues to fix on Friday. Have 3 of 4 aggregations done and just finishing the fourth. 
+Meanwhile, took a quick look at the JSONs - some small mistakes in the files but should be able to produce dummy data this afternoon.
+[?18/?05/?2020 13:47] Edmond Omolu: 
+That would be amazing if you can. Please send me the errors when you can. Shall we catch up later this afternoon? 16:30?
+[?18/?05/?2020 13:48] Rory McCabe: 
+Perfect
+talk then
+[?18/?05/?2020 15:25] Rory McCabe: 
+Cannot generate anything till I check with you - both order and trade jsons are identical which is wrong: missing many order columns such as action id, order action, price state, aon, order type, persistent order id, hidden quantity. Also JSON booleans are inconsistent with some having no enum, some y/n and some yes/no some columns missing length or tabbed length and null only used in the bottom 17 and then wrongly as how can you have a default of null with a boolean of yes/so?
+*yes/no
+[?18/?05/?2020 15:28] Edmond Omolu: 
+Oh dear. That is not good.
+Let me message Kathy and Ashley and ask them.
+[?18/?05/?2020 15:31] Rory McCabe: 
+I had checked and fixed all these for Anushka before Christmas. They must have overwritten them...
+[?18/?05/?2020 15:32] Edmond Omolu: 
+Let me try to get hold of Kathy.
+[?18/?05/?2020 15:35] Edmond Omolu: 
+Hi Kathy, Are you there?
+[?18/?05/?2020 15:36] Kathy Lin: 
+yes
+[?18/?05/?2020 15:36] Edmond Omolu: 
+So Rory is trying to help to generate new dummy data and is having the following problems.
+[?18/?05/?2020 15:25]  Rory McCabe:  
+Cannot generate anything till I check with you - both order and trade jsons are identical which is wrong: missing many order columns such as action id, order action, price state, aon, order type, persistent order id, hidden quantity. Also JSON booleans are inconsistent with some having no enum, some y/n and some yes/no some columns missing length or tabbed length and null only used in the bottom 17 and then wrongly as how can you have a default of null with a boolean of yes/so?
+*yes/no
+  
+[?18/?05/?2020 15:37] Kathy Lin: 
+let me take a look
+[?18/?05/?2020 15:37] Edmond Omolu: 
+Do we have the correct json file?
+(y)
+[?18/?05/?2020 15:43] Edmond Omolu: 
+Shall we get on a call? Will it be useful to get on a call?
+[?18/?05/?2020 15:43] Kathy Lin: 
+no I am still checking the files
+[?18/?05/?2020 15:43] Edmond Omolu: 
+Okay, let us know when you finish checking. Thanks!
+[?18/?05/?2020 15:43] Kathy Lin: 
+I need to get the previous files q
+[?18/?05/?2020 16:21] Kathy Lin: 
+Hi both, I have updated the json file located on K drive
+<K:\User Centred Data Services\Beta\All Data\Data Import Staging\gather\mio\json> for Edmond 
+hub_mio_orders.json  is updated
+let me know if it works this time
+[?18/?05/?2020 16:22] Rory McCabe: 
+The other issues still apply, mostly the use of default = null with a bollean field.
+*boolean
+[?18/?05/?2020 16:27] Kathy Lin: 
+ok I will change boolean to string for those with 'Y/N' values
+[?18/?05/?2020 16:28] Kathy Lin: 
+correct me if I am wrong. I thought HUB can diagnose when reading 'Y/N' and convert them to boolean
+I haven't changed that since Manish left. 
+{
+  "name": "is_leg_of_ss_y_n",
+  "to":  "is_leg_of_ss_y_n",
+  "type_to": "boolean",
+  "type": "string",
+  "nullable": true,
+  "format": "",
+  "optional": false,
+  "default-value" : "NULL",
+  "pii": "nc",
+  "length": 100,
+  "enum": ["y", "n"],
+  "description": ""
+} 
+[?18/?05/?2020 16:29] Rory McCabe: 
+should do - best to keep as boolean and either remove default or set to whichever is your preference if it makes sense to do so
+[?18/?05/?2020 16:30] Kathy Lin: 
+type_to is set to "boolean" 
+ 
+[?18/?05/?2020 16:31] Rory McCabe: 
+and use either y/n or yes/no for all booleans, not the mix and some missing enum altogether
+[?18/?05/?2020 16:31] Kathy Lin: 
+but that (mix type value combo) is the value Ashley want to see in the real data lol
+I will leave as it is until I confirm with Ashley if it is really need to be updated.
+[?18/?05/?2020 16:32] Rory McCabe: 
+OK, business-driven decision then
+[?18/?05/?2020 16:32] Edmond Omolu: 
+Hi Kathy, so I've asked Rory to help us out with this. Rory shouldn't really be working on this. He is just helping me out here.
+[?18/?05/?2020 16:33] Kathy Lin: 
+Thanks Rory
+[?18/?05/?2020 16:34] Rory McCabe: 
+np - just drop the lstest files into <K:\User Centred Data Services\Beta\All Data\Data Import Staging\gather\mio\> 'json for Edmond' folder and I'll try to create dummy files for you
+[?18/?05/?2020 16:35] Kathy Lin: 
+done that 
+[?18/?05/?2020 16:35] Rory McCabe: 
+I see a new file but it still says trades in both the name and description fields at the top
+[?18/?05/?2020 16:37] Kathy Lin: 
+Ok I will update that typo

@@ -1,0 +1,40 @@
+[?02/?06/?2021 14:27]  Elena Bachvarova:  
+Hi Rory 
+Wanted to catch up with you on the dashboard for last week's meeting 
+What did Helen end up presenting? 
+ 
+[?02/?06/?2021 14:28]  Rory McCabe:  
+Hiya and welcome back! In one piece? ;) 
+ 
+[?02/?06/?2021 14:29]  Elena Bachvarova:  
+in one piece 
+but now suffering from motion sickness because i'm on land 
+and i'm adjusting to things not moving 
+ 
+[?02/?06/?2021 14:32]  Rory McCabe:  
+I know Helen had a great reception at the EXCO meeting on Wednesday. We gave her a couple of Tree map visuals in Power BI for the Thursday meeting that she used I think as a picture rather than a dynamic due to not having Power BI. I've an approximation of the scatter graph in Python using the sizing and commitment columns that I will send you too.
+ 
+[?02/?06/?2021 14:34]  Elena Bachvarova:  
+that's great news 
+yes, it would be good to see those 
+Dom is rebuilding a laptop for me, so hopefully I'll migrate devices and have the tools by tomorrow or friday at the latest
+ 
+[?02/?06/?2021 14:35]  Rory McCabe:  
+Do you have your work email or do you want me to send the visuals to your personal email?
+(if that i allowed)
+*is
+ 
+[?02/?06/?2021 14:36]  Elena Bachvarova:  
+woek email 
+*work emial 
+ 
+[?02/?06/?2021 14:36]  Rory McCabe:  
+High waves ;) 
+ 
+[?02/?06/?2021 14:36]  Elena Bachvarova:  
+I also have power bi enabled for me as a business user 
+so i can consume reports 
+ 
+[?02/?06/?2021 14:39]  Elena Bachvarova:  
+elena.bachvarova@ofgem.gov.uk
+ 

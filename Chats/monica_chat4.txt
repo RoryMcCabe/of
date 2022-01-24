@@ -1,0 +1,39 @@
+[?20/?07/?2020 18:45]  Monica Gandolfi:  
+What about the following:
+Having independent drop down-menus for date, supplier name and market segment 
+And pre-filled columns for question number and text
+ 
+[?20/?07/?2020 18:47]  Monica Gandolfi:  
+And have a sort of validation script that identifies issues if they fill in a question that they are not expected to given the selected market segment
+ 
+[?20/?07/?2020 18:48]  Monica Gandolfi:  
+It will not work because the market segment has multiple options, sorry
+ 
+[?20/?07/?2020 18:49]  Monica Gandolfi:  
+Then I think it is worth trying with the market segment in the form of all different combinations so they can choose only one option and this will give them the full list of questions that apply to them
+ 
+[?20/?07/?2020 18:49]  Rory McCabe:  
+yes, if question is hard-wired per row, market segment either has to be also hard-wired or removed as not needed
+ 
+[?20/?07/?2020 18:50]  Monica Gandolfi:  
+I think it is the only way to get the selection of the market segment and the full list visible to them 
+ 
+[?20/?07/?2020 18:50]  Rory McCabe:  
+let me think about that one as it is more complicated
+to code
+ 
+[?20/?07/?2020 18:50]  Monica Gandolfi:  
+OK, I'm leaving you to it now! Thanks and have a good evening!
+ 
+[?20/?07/?2020 18:51]  Rory McCabe:  
+it would still leave your initial problem of blank cells so may be easier to just put in the 16 rows pre-filled
+ 
+[?20/?07/?2020 18:51]  Monica Gandolfi:  
+I see!
+ 
+[?20/?07/?2020 18:51]  Rory McCabe:  
+we can talk tomorrow, night
+ 
+[?20/?07/?2020 18:51]  Monica Gandolfi:  
+Night!
+ 

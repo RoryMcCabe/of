@@ -1,0 +1,48 @@
+[?05/?05/?2020 11:41] Peter Lomas: 
+I realize I sent you teams messages and I don't know if you use it
+but I'm in the process of dumping my version of the input files in the K drive
+[?05/?05/?2020 11:41] Rory McCabe: 
+Not a Teams fan - we use Slack much more
+OK, I've found some B files in A and some with extra columns and wrong dates.
+[?05/?05/?2020 11:44] Peter Lomas: 
+i'm curious what happens if you try aggregating my version.  Note it doesn't fix the dates issues, or the template change, but it should hopefully address the extra columns
+I assume teams is to bring us into the slack-like universe, and ditch skype
+[?05/?05/?2020 11:45] Rory McCabe: 
+All fixes greatly appreciated :) 
+[?05/?05/?2020 11:45] Peter Lomas: 
+i'm curious what you appreciate about slack and don't like about teams.  I'm no expert on either
+[?05/?05/?2020 11:45] Rory McCabe: 
+It'd be nice if Teams was any good but the quality sucks on and off VPN as far as we can tell
+[?05/?05/?2020 11:45] Peter Lomas: 
+they seem similarish
+interesting
+My feeling has been call quality been at minimum equivalent to skype, on and off the vpn
+[?05/?05/?2020 11:46] Rory McCabe: 
+and we've used Slack for two years now
+[?05/?05/?2020 11:46] Peter Lomas: 
+I've not noticed a roaring improvement in calls, but it hasn't been worse either
+<K:\User Centred Data Services\Beta\retail_data\covid_19_rfi\Downloads\2020-05-04> 1345 (Peter L Version) 
+[?05/?05/?2020 11:48] Peter Lomas: 
+my date field overrides for those files are in dateindex.csv on https://gitlab-data.ofgem.gov.uk/LomasP/covid_rfi 
+[?05/?05/?2020 11:49] Peter Lomas: 
+erg.  Skype does weird things with links
+[?05/?05/?2020 11:52] Rory McCabe: 
+So your files are in a different folder subtree - if I include them, won't they be duplicates or do you want to compare them with my submission4 aggregates?
+[?05/?05/?2020 11:52] Peter Lomas: 
+I was thinking the latter
+it's an entirely different set of submissions
+[?05/?05/?2020 11:53] Rory McCabe: 
+OK, maybe later depending on the time I get the aggregates. Yesterday was a late one!
+[?05/?05/?2020 11:53] Peter Lomas: 
+I am more concerned about repeatability and using the 'latest' submission download, to capture any changes to historical files.. I don't like the fairly manual process of building a master set of inputs
+[?05/?05/?2020 11:54] Rory McCabe: 
+No, manual sucks
+[?05/?05/?2020 11:55] Peter Lomas: 
+so I start with any given download, do some checks to see if its likely that any files need to be carried forward from previous downloads (zebra energy is a good example, which I haven't done yet, but generally the answer seems no so far), then run a script which overrides the raw files for certain problems
+usually it's just some copy-paste loop which renames some headers or dumps extra columns while printing their contents to the screen (I've looked at each supplier and happy with dumping it)
+[?05/?05/?2020 11:57] Peter Lomas: 
+but some suppliers like equinor, SSE, robin hood.. the script creates entirely new files and deletes the old ones
+[?05/?05/?2020 12:00] Peter Lomas: 
+having gone through the process I could make that script a lot more formulaic, and probably screen for certain conditions across all the files and capture a lot of it.. but it just sort of built up this way, and I didn't want to throw things out without casting eyes on it
+[?05/?05/?2020 18:21] Peter Lomas: 
+did you take a stab running your script on the folder I created?

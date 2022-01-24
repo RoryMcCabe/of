@@ -1,0 +1,29 @@
+[?01/?02/?2021 15:57]  Rory McCabe:  
+Hi, just need to check the total columns in M13, 14 and 15 - they seem to be yellow (input) cells in M13 and grey (ignored cells) in M14 and M15...
+ 
+[?01/?02/?2021 16:39]  Dheeraj Viswanath:  
+yes thats fine 
+ 
+[?01/?02/?2021 16:40]  Rory McCabe:  
+input cells as in not sum formulas ??
+ 
+[?01/?02/?2021 16:42]  Dheeraj Viswanath:  
+ah sorry - so what is in the BPDT is correct - for M!3 I dont see any total columns 
+for M14 and 15 this should be greyed out 
+ 
+[?01/?02/?2021 16:45]  Rory McCabe:  
+yes, sorry, the last col is '28, not a total - seeing things that aren't there!
+ 
+[?01/?02/?2021 16:45]  Dheeraj Viswanath:  
+yep - current draft is fine 
+ 
+[?01/?02/?2021 16:48]  Rory McCabe:  
+M14 only section = additions, not costs correct? and M15 column E is ignored?
+ 
+[?01/?02/?2021 16:51]  Dheeraj Viswanath:  
+M14 correct
+M15 good question  ill need to get back to you on that 
+ 
+[?01/?02/?2021 16:51]  Rory McCabe:  
+OK, thanks
+ 

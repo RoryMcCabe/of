@@ -1,0 +1,272 @@
+[?26/?03/?2021 14:22]  Dheeraj Viswanath:  
+CV6: Diversions Rail Elec Added gross total formulas E155:AU155
+CV6: Diversions Rail Elec: Moved cells BS150:CJ153 to BS149:CJ152
+ I spotted 2 errors in this sheet - these are the changes I have made ^ 
+CV6: Diversions Rail Elec Added gross total formulas E155:AU155 
+CV6: Diversions Rail Elec: Moved cells BS150:CJ153 to BS149:CJ152 
+ 
+[?29/?03/?2021 10:23]  Rory McCabe:  
+Morning, M3 is still not right. WSC, customer interruptions and projects are all redefining the meaning of the left columns and the last section you moved needs a column A to define the category, presumably the scheme id but that has its own variable in other sheets. Is there a way these can be put in different sheets as they don't have anything in common?
+ 
+[?29/?03/?2021 10:26]  Dheeraj Viswanath:  
+morning Rory, not sure if I can separate the sheets out because its a more fundamental change to the sheet, also we would need to change the guidance and then the commentary 
+so is the problem with Row 12 section and the table from row 16 to 30? 
+ 
+[?29/?03/?2021 10:29]  Rory McCabe:  
+no, the problem is the structure of the four sections is so different, it can't be coded as metadata. Does this sheet need to be transformed at all?
+ 
+[?29/?03/?2021 10:57]  Dheeraj Viswanath:  
+I think hold off for now (apologies) 
+I will check with my head of team 
+ 
+[?29/?03/?2021 11:23]  Dheeraj Viswanath:  
+I've got 7 min - are you free for a quick chat? 
+ 
+[?29/?03/?2021 11:24]  Rory McCabe:  
+sorry, maybe later?
+ 
+[?29/?03/?2021 11:24]  Dheeraj Viswanath:  
+sounds good, this afternoon works? 
+ 
+[?29/?03/?2021 11:25]  Rory McCabe:  
+yep, any time after 2
+ 
+[?29/?03/?2021 11:25]  Dheeraj Viswanath:  
+sweet
+ 
+[?29/?03/?2021 11:25]  Rory McCabe:  
+TY
+ 
+[?29/?03/?2021 14:19]  Dheeraj Viswanath:  
+free now? 
+ 
+[?29/?03/?2021 14:19]  Rory McCabe:  
+yes
+ 
+Connected to Dheeraj Viswanath (dheeraj.viswanath@ofgem.gov.uk).  
+Call with Dheeraj Viswanath (dheeraj.viswanath@ofgem.gov.uk) has ended. 10 minutes  
+[?29/?03/?2021 17:02]  Rory McCabe:  
+QQ: The header units in CV33 go from £m to # to £ - is the last supposed to be £m or £k ?
+ 
+[?29/?03/?2021 17:03]  Dheeraj Viswanath:  
+think its £m 
+(looking at the formula) 
+ 
+[?29/?03/?2021 17:04]  Rory McCabe:  
+TY, I will change the metadata
+ 
+[?29/?03/?2021 17:05]  Dheeraj Viswanath:  
+you coded M13 right? 
+ 
+[?29/?03/?2021 17:06]  Rory McCabe:  
+yep, early Feb
+ 
+[?29/?03/?2021 17:11]  Dheeraj Viswanath:  
+I need to add some line items in that (placeholders) 
+ 
+[?29/?03/?2021 17:14]  Rory McCabe:  
+sure, again, if it doesn't move cells or add/remove rows and columns, it will not affect the coding.
+ 
+[?29/?03/?2021 17:15]  Dheeraj Viswanath:  
+I need to add one additional column and a few rows (basically blanks for DNos to add in 
+https://ofgemcloud.sharepoint.com/sites/PC/Shared%20Documents/Electricity%20Distribution/ED2%20Business%20Plan%20Data%20Templates/BPDT%20Data%20Template/BPDT%20Final/riio-ed2_draft_business_plan_data_templates_v4.0.xlsx?web=1 
+ 
+[?29/?03/?2021 17:19]  Rory McCabe:  
+ok, I'll take a look
+ 
+[?31/?03/?2021 16:11]  Rory McCabe:  
+QQs from Liz on CV7a and b - should row 137 have total for unit cost as well as costs? Should CL-CM have a total column? Should multi-year avg go to 2023 for ED1 and 2028 for ED2?
+ 
+[?31/?03/?2021 16:13]  Dheeraj Viswanath:  
+having a look now 
+ 
+[?31/?03/?2021 16:16]  Dheeraj Viswanath:  
+which column sorry 
+for row 137
+ 
+[?31/?03/?2021 16:19]  Dheeraj Viswanath:  
+to your final 2 questions, its fine - the multi average unit costs just is to give a snapshot for us 
+ 
+[?31/?03/?2021 16:20]  Rory McCabe:  
+sectio 4 - it does costs and skips the rest but Liz is asking if it should have formulas for unit costs
+BS-CJ?
+ 
+[?31/?03/?2021 16:20]  Dheeraj Viswanath:  
+for row 137? 
+ 
+[?31/?03/?2021 16:21]  Rory McCabe:  
+yes
+ 
+[?31/?03/?2021 16:21]  Dheeraj Viswanath:  
+no thats fine 
+ 
+[?31/?03/?2021 16:21]  Rory McCabe:  
+both 7a and b
+ 
+[?31/?03/?2021 16:21]  Dheeraj Viswanath:  
+doesnt apply to the final 2 sections 
+ 
+[?31/?03/?2021 16:21]  Rory McCabe:  
+thanks - I just assume your grey and green cells are right but she was wondering :) 
+ 
+[?31/?03/?2021 16:21]  Dheeraj Viswanath:  
+yea no worries
+ 
+[?31/?03/?2021 16:21]  Rory McCabe:  
+TY
+ 
+[?31/?03/?2021 16:34]  Rory McCabe:  
+AP1 seems to have lost the reported proce base in the top left ?
+Dheeraj Viswanath can't receive IMs right now. Status is unavailable or offline. 
+[?31/?03/?2021 16:34]  Rory McCabe:  
+*price
+Dheeraj Viswanath can't receive IMs right now. Status is unavailable or offline. 
+[?01/?04/?2021 13:28]  Rory McCabe:  
+Hi, are you in next week to cover end of work review and training?
+Dheeraj Viswanath can't receive IMs right now. Status is unavailable or offline. 
+[?06/?04/?2021 13:23]  Rory McCabe:  
+Hi, CV2 row 209 - average utilisation: should it be a formula?
+and 231
+ 
+[?06/?04/?2021 13:24]  Dheeraj Viswanath:  
+ill double check with Augustin
+ 
+[?06/?04/?2021 13:25]  Rory McCabe:  
+and 277
+and 299
+ 
+[?06/?04/?2021 13:30]  Dheeraj Viswanath:  
+all correct - input cells at the bottom is correct  - IFERROR are used hence there is no dash showing 
+ 
+[?06/?04/?2021 13:31]  Rory McCabe:  
+ok, it just looks wrong as green formula cells change to yellow across the rows
+This message wasn't sent to Dheeraj Viswanath. 
+[?19/?04/?2021 10:47]  Rory McCabe:  
+Hi, I was away last week so just catching up on emails. Confused about the one you sent Thursday - M19? You know I'm not maintaining changes any more but am very happy to do another session to show you how.
+ 
+[?19/?04/?2021 10:49]  Dheeraj Viswanath:  
+Hi Rory, apologies that was a note more to myself - I was supposed to follow up by saying ill give it a go and check with you after whether everything was fine 
+ 
+[?19/?04/?2021 10:51]  Rory McCabe:  
+Ah, ok, let me know if you are clear on the steps and make a copy of the MD file. It will need changes to the python files as well so that is part of my last work for you, re. the whole model and what t orun to get the output
+Currently, the scripts are in Git-lab repository as in dev and being version-controlled
+ 
+[?19/?04/?2021 10:53]  Dheeraj Viswanath:  
+noted, is it possible for a high level note providing the steps required? (would be good for any new analysts who are joining in our team) 
+in here? https://gitlab.com/ofgem 
+ 
+[?19/?04/?2021 10:54]  Rory McCabe:  
+Of course, that is what I'm working on this week
+ 
+[?19/?04/?2021 10:54]  Dheeraj Viswanath:  
+thank you 
+ 
+[?19/?04/?2021 13:03]  Rory McCabe:  
+I'm working on the master sheet for C/CV tabs and there are 28 columns. Some are similar and could be reworded to be the same, i.e. project scheme id from CV23/24 and scheme id from C3. Any others jump to mind? ['category', 'company_name_full', 'data_type', 'description', 'header', 'innovation_theme', 'investment_driver', 'licence_conditions', 'metric_of_work', 'narrative_ref', 'price_control_period', 'primary_voltage', 'project_scheme_id', 'project_scheme_name', 'reported_price_base', 'reporting_year', 'scheme_identifier', 'secondary_voltage', 'sheet', 'site_no', 'sub_category', 'subtable_1', 'subtable_2', 'table', 'term', 'unit', 'values', 'voltage'] 
+ 
+[?19/?04/?2021 13:12]  Rory McCabe:  
+Some should only have a few values, e.g. company_name_ful... 
+Some should only have a few values, e.g. company_name_full, data_type, licence_conditions, reported_price_base, unit, term but a couple are more than they should be, like metric_of_work and price_control_period: MOW has 39 ('Each', 'km', 'No. of Mains', nan, '£m', 'Sites', '#', '%','per site where target resilience achieved', 'per site','circuits', 'MVA', 'Schemes', 'km removed', '# interventions', '# Interventions', 'span', 'Spans', 'Km', 'm', 'yrs','Cut Outs Inspected', 'Poles Inspected', 'Units Inspected','Inspections', 'Substation Inspections', 'Towers Inspected','Tunnels Inspected', 'Bridges Inspected', 'Shore Ends', 'spans','Assets with intervention during the year', 'repairs','Substations with intervention during the year', '#MWh', 'FTEs','Training days', 'Claims settled', 'Diversions completed','No. of Refurbishments' ) and PCP has 10 ('Pre-DPCR5', 'na', 'RIIO-ED1', 'DPCR5', 'RIIO-ED2', 'DPCR-5','4 year', '2 year', '5 year', '3 year' ).Note the 'dash five' issue that was spposed to be fixed. 
+ 
+[?19/?04/?2021 15:42]  Rory McCabe:  
+Did you see above? The big picture should have consistency in case and spelling, e.g. span/Spans/spans... 
+otherwise, your filtering on the aggregated data will have too many choices
+ 
+[?19/?04/?2021 15:47]  Dheeraj Viswanath:  
+yep sorry I saw that and understood, we just have to keep that in mind when filtering right? 
+ 
+[?19/?04/?2021 15:47]  Rory McCabe:  
+No, need to change raw sheets to be the same
+ideally but yes if not
+Sorry, that sounds confusing - depends on what you want and what you are willing to do to get it right
+ 
+[?19/?04/?2021 15:48]  Rory McCabe:  
+Sent above to help you with the data dictionary choices
+ 
+[?19/?04/?2021 15:49]  Dheeraj Viswanath:  
+I mean its too late right now to change the units to make it consistent right? so the best solution would be to have a note in the manual saying to filter appropriately 
+ah that makes sense thanks 
+ 
+[?19/?04/?2021 15:50]  Rory McCabe:  
+define too late - this was always a dynamic document up to end of March, hence the need for all my rework up to ver 4. Are you saying you cannot fix mistakes and send out an updated template file ever?
+Not all the corrections in the worksheet questions are done
+ 
+[?19/?04/?2021 15:53]  Dheeraj Viswanath:  
+too late in the sense of the deadline end of march - 
+
+no but the idea from now on is not to reissue new templates and issue instructions to correct any potential errors 
+ 
+[?19/?04/?2021 15:55]  Rory McCabe:  
+Is it better to rely on each DNO separately correcting formula mistakes and the like as opposed to a central fix and update all?
+ 
+[?19/?04/?2021 15:56]  Dheeraj Viswanath:  
+we will be providing both - but we've agreed to post information to fix any errors as network companies have already been filling out the spreadsheets and cant easily move to a newer version 
+we are going to use gitlab for this (central place to provide info on any bpdt issues) 
+similar to what the regulatory finance team have been doing 
+ 
+[?19/?04/?2021 15:57]  Rory McCabe:  
+good idea - version control is needed for these to coordinate resonses
+*responses
+ 
+[?19/?04/?2021 15:58]  Dheeraj Viswanath:  
+yep 
+ 
+[?19/?04/?2021 16:15]  Rory McCabe:  
+Separate questions on grouping: CV7 is in non-load, do you want CV7a, b, c in there as well or do they fold up into CV7? Same for CV25 in HVP plus a, b, c, d, e? Lastly, CV36a is on its own in other but what about CV36?
+and CV37 and 38 are not anywhere
+or C24
+ 
+[?19/?04/?2021 16:16]  Dheeraj Viswanath:  
+sorry cv7 a b c being labelled as non-load? 
+ 
+[?19/?04/?2021 16:18]  Rory McCabe:  
+yep
+if I make an aggregate for non-load, do you want the abc tabs in it
+ 
+[?19/?04/?2021 16:20]  Dheeraj Viswanath:  
+no I think leave it as everything feeds into that tab and would be double counting 
+ 
+[?19/?04/?2021 16:21]  Rory McCabe:  
+and same for CV25abcde?
+ 
+[?19/?04/?2021 16:21]  Dheeraj Viswanath:  
+yes please 
+ 
+[?19/?04/?2021 16:22]  Dheeraj Viswanath:  
+shetland is c25 right? 
+ 
+[?19/?04/?2021 16:22]  Rory McCabe:  
+and do C24 (RPM), CV37 (NIC) and CV38 (IFI) stay on thir own as they do not appear in your groupings?
+yes but talking about CV25 above
+ 
+[?19/?04/?2021 16:24]  Rory McCabe:  
+your ten groupings have Shetland on its own
+ 
+[?19/?04/?2021 16:24]  Dheeraj Viswanath:  
+yep 
+for CV37 and CV38 please add them to "other costs within price control" 
+ 
+[?19/?04/?2021 16:26]  Dheeraj Viswanath:  
+for C24 please leave ungrouped 
+its not in the cost matrix's 
+ 
+[?19/?04/?2021 16:28]  Rory McCabe:  
+Thanks, last one was CV36 separate from CV36a...?
+NIA
+ 
+[?19/?04/?2021 16:29]  Dheeraj Viswanath:  
+yes in "other costs within price control" 
+ 
+[?19/?04/?2021 16:29]  Rory McCabe:  
+TY
+ 
+[?19/?04/?2021 16:30]  Dheeraj Viswanath:  
+think that would apply for atypcials non sev weather too (C15) 
+under "other costs within Price Control" 
+ 
+[?20/?04/?2021 15:29]  Rory McCabe:  
+running a few minutes late...
+ 
+[?20/?04/?2021 15:29]  Dheeraj Viswanath:  
+no worries
+ 

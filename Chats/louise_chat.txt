@@ -1,0 +1,68 @@
+[?06/?04/?2021 15:02]  Louise Davies:  
+Hi Rory. How are you? Do you have 5  mins to look at your access to \\lonfs01\dept\Databases ?
+ 
+[?06/?04/?2021 15:20]  Rory McCabe:  
+Hi Louise, Data Services use the N: drive quite a lot so I have to remap it many times a day
+ 
+[?06/?04/?2021 15:21]  Louise Davies:  
+ok. due to the nature of the content  it is not designed to stay mapped but you should be able to access it still via the P Drive.
+ 
+[?06/?04/?2021 15:22]  Rory McCabe:  
+Yes, I have it as M: but we have many scripts with 'N:' encoded
+ 
+[?06/?04/?2021 15:23]  Rory McCabe:  
+much too many to find and change so I call the mapping at the start of my scripts 
+ 
+[?06/?04/?2021 15:26]  Louise Davies:  
+ok. i understand. The folder itself does contain 697 GB data which may also be a problem. What could be done is we could create a AD group to map the drive when you logon, failing that we may have to increase the disk space. I woudl have to speak to Infra to see if they can add this to the login script.
+ 
+[?06/?04/?2021 15:27]  Rory McCabe:  
+it isn't just for me - the scripts are used br RIIO< retail, etc.
+*by
+any solutions we've written for the business over the last couple of years in fact
+ 
+[?06/?04/?2021 15:30]  Louise Davies:  
+ok. so there is no way you can change the scripts to teh actual file path?
+ 
+[?06/?04/?2021 15:32]  Rory McCabe:  
+I can only talk for the scripts I've been involved with but they are hard-wired to a path on N:
+and are used by multiple departments
+if there is a mirror with less space issues and the same folder structure, I can map that as N:
+ 
+[?06/?04/?2021 15:33]  Louise Davies:  
+ok.. i will speak to infra for advice on this. 
+ 
+[?06/?04/?2021 15:33]  Rory McCabe:  
+what was the filepath to P: you mentioned?
+ 
+[?06/?04/?2021 15:37]  Louise Davies:  
+actually, i may be wrong about the drive letter...
+ 
+[?06/?04/?2021 15:38]  Rory McCabe:  
+if it was an alternate path, I could alias it rather than map it
+just a thought
+ 
+[?06/?04/?2021 15:38]  Louise Davies:  
+the path is \\lonfs01\dept\Databases\ 
+ 
+[?06/?04/?2021 15:39]  Rory McCabe:  
+so that is the same target, not a mirror and inherits the same issues I presume.
+ 
+[?06/?04/?2021 15:39]  Louise Davies:  
+there is another database one which is P , but thats not this one
+ 
+[?06/?04/?2021 15:39]  Rory McCabe:  
+ok
+ 
+[?06/?04/?2021 15:40]  Louise Davies:  
+there does not see to be a share on that location.... i may be wrong  but its not in DFS.
+ 
+[?06/?04/?2021 15:45]  Louise Davies:  
+teh source appears to be on another server so will need to check about the permissions.
+ 
+[?06/?04/?2021 15:47]  Rory McCabe:  
+OK, thanks - let me know because it is potentially a huge issue
+ 
+[?06/?04/?2021 15:51]  Louise Davies:  
+sure. I will probably have to setup a convo with yourself and Infra to discuss your options.
+ 

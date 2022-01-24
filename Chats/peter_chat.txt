@@ -1,0 +1,65 @@
+[?27/?04/?2020 15:13] Peter Lomas: 
+hi rory
+so I'm trying to work out what is actually happening
+[?27/?04/?2020 15:38] Peter Lomas: 
+I take it there is a manual process of people combing through files, fixing some things at source, and pasting them into a directory 
+then, you run the aggregation script on that? 
+sorry, those messages just seemed to fail
+[?27/?04/?2020 15:39] Rory McCabe: 
+Sorry, didn't see the first message. Yes, Monica has people manually checking but today, they are on the Huddle step. I'll scan as soon as the new files land on K:
+[?27/?04/?2020 15:39] Peter Lomas: 
+what is the huddle step
+[?27/?04/?2020 15:40] Rory McCabe: 
+Getting the files rom email
+*from
+[?27/?04/?2020 15:40] Peter Lomas: 
+right.  so those are already downloaded
+but they're just copying them from the raw download folder into a 'cleaner' folder?
+[?27/?04/?2020 15:42] Rory McCabe: 
+I am not sure of the details pre-K: drive as I have no access to huddle or sharepoint, can you check with the others?
+[?27/?04/?2020 15:44] Peter Lomas: 
+will do.  but as far as you're concerned, they do some stuff, point you to a directory, you run your script
+[?27/?04/?2020 15:46] Rory McCabe: 
+yep
+same dir so keeping on eye on it for new data
+[?27/?04/?2020 15:47] Rory McCabe: 
+up from 666 to 687 so far
+[?27/?04/?2020 15:48] Peter Lomas: 
+files>
+?
+[?27/?04/?2020 15:48] Rory McCabe: 
+yes
+[?27/?04/?2020 15:49] Peter Lomas: 
+i kind of feel like this is a rather resource intensive way of going about it
+but maybe it's not.  then again, it didn't seem to stop you having lots of aggregation issues
+[?27/?04/?2020 15:50] Peter Lomas: 
+i'd rather just take the latest, do a check for any old files from previous submissions that might need to be brought forward, run some scripted overrides for certain conditions, then aggregate and start working through exceptions, developing the scripted overrides
+and hopefully the 'new' overrides get less and less each time
+eg, converting all SSEs files to csv took 3 seconds
+but I'm just whining at you!
+[?29/?04/?2020 13:13] Peter Lomas: 
+what do you do with a file like SHELLENERGYRETAILLIMITED_WEEKLYCONSUMERQUALITATIVE_15_04_2020.csv 
+in that case, the 6th line in the file has commas in the text field, but the string is not quoted
+[?29/?04/?2020 13:18] Rory McCabe: 
+That looks like a mess - it is small enough to redo manually but I'd send it back
+[?29/?04/?2020 13:19] Peter Lomas: 
+yeah
+[?29/?04/?2020 13:24] Peter Lomas: 
+hmm... R has a 'flush=TRUE' option which kinda sorts the problem.  It basically just discards everything after the first comma in that field
+[?29/?04/?2020 13:27] Rory McCabe: 
+That is useful - I found a similar one in Social's submissions
+[?29/?04/?2020 13:28] Peter Lomas: 
+I think the only way I could 'code' a fix would be to manually scan the file line by line, paste things together, and make a proper submission out of it.
+easier to fix manually at the source file, though I hate doing that
+because they might just end up resubmitting it
+[?29/?04/?2020 13:34] Rory McCabe: 
+I know but it is easier. Maybe a directed feedback to them explaining the issue...
+[?01/?05/?2020 13:43] Peter Lomas: 
+AMPOWERUK_WEEKLYCONSUMERQUALITATIVE_20_04_2020.csv is an interesting file :/
+[?01/?05/?2020 13:55] Rory McCabe: 
+Not seeing it on K:
+[?01/?05/?2020 13:57] Peter Lomas: 
+weird
+maybe michael just deleted it
+I flagged it to him too
+it was a loooong set of NULL, with a little tiny fragment of data at the end

@@ -1,0 +1,32 @@
+[?24/?05/?2021 16:22]  Rory McCabe:  
+Hi Monica. Can I just check with you that the Guaranteed Standards of Performance dataset you are talking about (that Ljuban has given me access to) is nothing related to the GSOP dataset we've already done some work on from Joe Karmali in Switching ...?
+ 
+[?24/?05/?2021 16:24]  Monica Gandolfi:  
+Hi Rory. Confirmed. It is a different set of minimum standards that suppliers have to meet. This one is focused on appointments and other operational details. The other one is focused on switching execution.
+ 
+[?24/?05/?2021 16:25]  Rory McCabe:  
+Great, thanks. The joy of two retail datasets with the same name ;) 
+ 
+[?24/?05/?2021 16:25]  Monica Gandolfi:  
+:)
+ 
+[?24/?05/?2021 16:27]  Rory McCabe:  
+I've done some efficient cleansing and graphs for the other one but not wasted. Hopefully can do similar for this one.
+ 
+[?24/?05/?2021 16:27]  Monica Gandolfi:  
+One thing, not sure if we talked about it when we had our last catch-up call. Is there a budget implications for us on the time you are dedicating now to this? Will our team be billed on this?
+ 
+[?24/?05/?2021 16:27]  Rory McCabe:  
+No charge at all on this
+This is our roadmap for discoveries
+ 
+[?24/?05/?2021 16:28]  Monica Gandolfi:  
+Great, I thought so, but wanted to confirm it!
+Ljuban was very excited about getting your help!
+ 
+[?24/?05/?2021 16:29]  Rory McCabe:  
+Great, I will get back to him as soon as we have anything to show.
+ 
+[?24/?05/?2021 16:29]  Monica Gandolfi:  
+Thanks :)
+ 

@@ -1,0 +1,65 @@
+[?10/?12/?2020 10:30]  Rory McCabe:  
+Morning. Is our call on Skype?
+ 
+[?10/?12/?2020 10:30]  Dheeraj Viswanath:  
+think its on teams sorry finishing up another call
+ 
+[?10/?12/?2020 10:30]  Rory McCabe:  
+no worries
+ 
+[?10/?12/?2020 11:30]  Rory McCabe:  
+CV36a will need anchor text in A33-A53
+ 
+[?10/?12/?2020 11:31]  Dheeraj Viswanath:  
+noted thank you 
+ 
+[?10/?12/?2020 11:32]  Rory McCabe:  
+no probs
+ 
+[?10/?12/?2020 12:14]  Dheeraj Viswanath:  
+forgot to ask - for the anchor text -if they are not using the cells, do they need to delete the anchor text? 
+ 
+[?10/?12/?2020 12:15]  Rory McCabe:  
+No, NEVER - need to keep it
+ 
+[?10/?12/?2020 12:15]  Dheeraj Viswanath:  
+okay 
+ 
+[?10/?12/?2020 13:34]  Dheeraj Viswanath:  
+not sure if you've had a look at M1 but do I need to add anchor text in this tab? 
+and M2 from D89
+ 
+[?10/?12/?2020 13:55]  Rory McCabe:  
+M1 is queued for tomorrow and M2 is not green so haven't seen it yet
+ 
+[?10/?12/?2020 13:58]  Dheeraj Viswanath:  
+okay 
+heads up, M1 is very very different to the rest of the pack 
+ 
+[?10/?12/?2020 13:58]  Rory McCabe:  
+OK I think. General rule for anchor text is any column a (category) lines you want to keep need text in them
+ 
+[?10/?12/?2020 13:59]  Dheeraj Viswanath:  
+okay so even if its in column b
+and not column a 
+ 
+[?10/?12/?2020 13:59]  Rory McCabe:  
+If any significant row for values has no A, B or C text, it will drop
+better to have text in all Col A lines or you will not have a category defined
+ 
+[?10/?12/?2020 14:00]  Dheeraj Viswanath:  
+okay so basically one of the cells need some text in 
+yea so Ive made changes to ones start at column a 
+but theres couple that have blank input cells starting in column b
+couple of tabs*
+ 
+[?10/?12/?2020 14:02]  Rory McCabe:  
+If thee's a category (col A), there doesn't need to be anything on B but it might not work to have any user input before the table margin (Col D usually) as it is not easy to code or may not work
+I've done one that works but each needs to be checked for its own details
+ 
+[?10/?12/?2020 14:04]  Dheeraj Viswanath:  
+oh okay 
+ 
+[?10/?12/?2020 14:04]  Rory McCabe:  
+But, like I said, I got it working for the scheme ids and drivers so I can look at them for that
+ 

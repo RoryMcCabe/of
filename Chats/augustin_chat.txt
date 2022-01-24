@@ -1,0 +1,36 @@
+[?19/?02/?2021 16:55]  Rory McCabe:  
+Hi Augustin, did you get a change to look at the RPEs tab that I'm trying to code? I think there are a few things to change and we can chat about it Monday if you are free.
+ 
+[?19/?02/?2021 16:55]  Augustin Lorne:  
+Hi Rory
+Apologies, I don't think I received your RPE tab!
+Did you send it in an email?
+ 
+[?19/?02/?2021 16:57]  Rory McCabe:  
+Sorry, thought Dheeraj had mentioned it to you. I can send the list of issues
+ 
+[?19/?02/?2021 16:57]  Augustin Lorne:  
+Qh no sorry I haven't received anything, yes happy to have a look!
+ 
+[?19/?02/?2021 16:58]  Rory McCabe:  
+Not sonething for this late in the week, maybe catch-up Monday
+ 
+[?19/?02/?2021 16:58]  Augustin Lorne:  
+Ok perfect, I'm free most of the day I think so whenever is convenient for you!
+ 
+[?19/?02/?2021 16:59]  Rory McCabe:  
+There's an ED meeting in the calendar at 4 but maybe earlier - any time after 10am
+and I can code the metadata before the 4pm meet
+ 
+[?19/?02/?2021 17:00]  Augustin Lorne:  
+ok sounds good! 
+Thanks a lot!
+ 
+[?19/?02/?2021 17:00]  Rory McCabe:  
+TY, here's a summary:
+missing a unit row (# or £m), missing formula (dashes), no price base in AP1, no draft in RPE, percentage values look too high, RPE cells B23 and 35 need '£m' and row H in RPE goes from unused to 1.0 to used 
+We can discuss more fully next week - have a great weekend
+ 
+[?19/?02/?2021 17:01]  Augustin Lorne:  
+Ok thanks for flagging, have a good weekend! 
+ 

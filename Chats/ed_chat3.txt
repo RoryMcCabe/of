@@ -1,0 +1,37 @@
+[?16/?12/?2020 18:14]  Dheeraj Viswanath:  
+hi rory - sorry for the late message 
+"Also the totals in CV6 are ambiguous and need more precise descriptions to differentiate them as we discussed earlier. "
+what was this issue again? 
+ 
+[?16/?12/?2020 18:15]  Rory McCabe:  
+Hi, it was that the raw format has totals in context but the transformed output loses this so needs the cell to say total of what
+ 
+[?16/?12/?2020 18:16]  Dheeraj Viswanath:  
+is this for the individual sections? 
+oh never mind 
+this is column a 
+just has totals 
+and nothing more 
+ 
+[?16/?12/?2020 18:17]  Rory McCabe:  
+yep
+ 
+[?16/?12/?2020 18:17]  Dheeraj Viswanath:  
+great cheers
+ 
+[?16/?12/?2020 18:18]  Rory McCabe:  
+np
+Working on M21 and 22 - the position of the units at column I is a problem. I can get around it but there are side-effects
+ 
+[?16/?12/?2020 18:19]  Rory McCabe:  
+Is there a reason it is in the middle of the tables?
+ 
+[?16/?12/?2020 18:22]  Dheeraj Viswanath:  
+not a particular reason but there is a possibiltiy that this will change post xmas - (very linked to policy development) 
+ 
+[?16/?12/?2020 18:25]  Rory McCabe:  
+OK, keep in mind though that it is a parameter and needs to be defined outside the tables area if at all possible
+ 
+[?16/?12/?2020 18:26]  Dheeraj Viswanath:  
+noted
+ 

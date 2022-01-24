@@ -1,0 +1,23 @@
+[?13/?01/?2021 15:12]  Jeremy Fisher:  
+HI Rory, please can you call me re: testing.  Thank you
+ 
+[?13/?01/?2021 17:25]  Jeremy Fisher:  
+Please can you call me re: testing of the ED2 files - I want to check that the other files I've checked have, in fact, been the correct ones, and test the correct ones if they're not
+ 
+[?13/?01/?2021 17:26]  Rory McCabe:  
+ok
+ 
+Connected to Jeremy Fisher (jeremy.fisher@ofgem.gov.uk).  
+Call with Jeremy Fisher (jeremy.fisher@ofgem.gov.uk) has ended. 9 minutes  
+[?13/?01/?2021 17:40]  Rory McCabe:  
+all good - CV35 was the one with number units in the header that I fixed last week so you checked the right one
+ 
+[?13/?01/?2021 17:41]  Jeremy Fisher:  
+phew.  Please let me know if you find any other problems, or if you want me to check anything else.  One of the problems is that it's hard to track through tickets after they've been "done"
+ 
+[?13/?01/?2021 17:41]  Rory McCabe:  
+will do
+ 
+[?13/?01/?2021 17:41]  Jeremy Fisher:  
+thank you
+ 

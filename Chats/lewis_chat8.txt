@@ -1,0 +1,30 @@
+[?04/?09/?2020 11:31]  Rory McCabe:  
+Hi Lewis, did you get my update on the column width for EON? Is that ok as there is nothing to fix?
+ 
+[?04/?09/?2020 11:54]  Lewis Edgar:  
+Hey Rory, sorry not had the chance to look yet!
+I'll take a look this afternoon
+quick q - how important is the naming convention of supplier's files for aggregation?
+ 
+[?04/?09/?2020 11:55]  Lewis Edgar:  
+This is how we are planning to store them for aggregation (i.e. separate folders for indicators): <K:\User Centred Data Services\Beta\retail_data\covid_19_rfi\New RFI\Download> 
+ 
+[?04/?09/?2020 11:56]  Rory McCabe:  
+So long as we all agree on  convention, I don't think there would be a problem changing to conform to a new one.
+ 
+[?04/?09/?2020 11:58]  Lewis Edgar:  
+I mean, as we are separating the indicators into different folders, does the naming convention matter as the script won't be require to identify different templates in the same folder?
+obviously we want them to use the correct date for our own reference, but would things like a "v2" at the end matter now?
+ 
+[?04/?09/?2020 12:03]  Rory McCabe:  
+I don't think so. If you accept the assumption that every file in a subfolder is the same type, submission, etc. then we'll just read them all in and aggregate accordingly. If, down thel ine, you want to differentiate sencond or late submissions for example, the name will matter
+ 
+[?04/?09/?2020 12:04]  Lewis Edgar:  
+ok good to know! thanks
+ 
+[?04/?09/?2020 12:05]  Rory McCabe:  
+BTW, I'm off Monday and Tuesday so ok to look at the data from Wednesday?
+ 
+[?04/?09/?2020 12:06]  Lewis Edgar:  
+yeah sure that's fine
+ 

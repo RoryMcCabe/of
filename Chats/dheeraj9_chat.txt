@@ -1,0 +1,41 @@
+[?15/?03/?2021 14:34]  Rory McCabe:  
+Hi, do you have time today or tomorrow to go through some questions about your aggregation levels, M25 and AP1
+ 
+[?15/?03/?2021 14:35]  Dheeraj Viswanath:  
+yes I do, after half 3? Also I had a kick off meeting with the other analysts for UAT 
+ 
+[?15/?03/?2021 14:35]  Rory McCabe:  
+Excellent, just call me when you are free
+ 
+[?15/?03/?2021 14:36]  Dheeraj Viswanath:  
+have you got more outputs in the gather folder (such as v1) - asset movements 
+cool will do 
+ 
+[?15/?03/?2021 14:36]  Rory McCabe:  
+will put some in now
+ 
+[?15/?03/?2021 14:36]  Dheeraj Viswanath:  
+thanks as much as possible would be great
+ 
+[?15/?03/?2021 14:53]  Rory McCabe:  
+42 files in latest folders at <M:\NPC-DS Project\ED\data\gather> 
+ 
+[?15/?03/?2021 14:53]  Dheeraj Viswanath:  
+thank you
+ 
+[?15/?03/?2021 14:53]  Rory McCabe:  
+N: for you, not M:
+ 
+[?15/?03/?2021 14:53]  Dheeraj Viswanath:  
+is that a M driver? 
+ah 
+yes
+ 
+[?15/?03/?2021 16:05]  Rory McCabe:  
+Sorry, did you try to ring? I had someone call to the door ...
+ 
+[?15/?03/?2021 16:06]  Dheeraj Viswanath:  
+no I didnt but Im free now 
+ 
+Connected to Dheeraj Viswanath (dheeraj.viswanath@ofgem.gov.uk).  
+Call with Dheeraj Viswanath (dheeraj.viswanath@ofgem.gov.uk) has ended. 26 minutes  

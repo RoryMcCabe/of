@@ -1,0 +1,28 @@
+[?10/?09/?2020 13:45]  Lewis Edgar:  
+Hi Rory, how's it going with the aggregation?
+ 
+[?10/?09/?2020 13:46]  Rory McCabe:  
+Stalling on SSE - did you see my email
+ 
+[?10/?09/?2020 13:47]  Lewis Edgar:  
+yeah, I can do that just now
+ 
+[?10/?09/?2020 13:47]  Rory McCabe:  
+Thanks
+ 
+[?10/?09/?2020 14:28]  Lewis Edgar:  
+Removed powershop files and merged their return with npower file
+ 
+[?10/?09/?2020 14:28]  Rory McCabe:  
+Great, should have something for you soon
+ 
+[?10/?09/?2020 16:22]  Rory McCabe:  
+SSE leading is still pw protected
+ 
+[?10/?09/?2020 16:24]  Lewis Edgar:  
+it's not for me
+they are included in the aggregated file as well
+ 
+[?10/?09/?2020 16:32]  Rory McCabe:  
+Sorry, I had clicked on the financial folder by mistake.
+ 

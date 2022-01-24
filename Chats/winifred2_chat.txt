@@ -1,0 +1,99 @@
+[?02/?07/?2020 15:03]  Winifred Victoria:  
+Hello Rory
+just thought i'd message you about the email you sent
+I checked the electoroute and it seems fine
+what do I seem to be missing?
+ 
+[?02/?07/?2020 15:04]  Rory McCabe:  
+Sorry, just on a call. Excel shows dates and stores them differently. Can you check your windows regional settings as any file you edit seems to revert to US settings?
+ 
+[?02/?07/?2020 15:05]  Winifred Victoria:  
+sorry to be a bother, but could you instruct me as to how to change the regional settings?
+ 
+[?02/?07/?2020 15:06]  Rory McCabe:  
+can call after 4
+ 
+[?02/?07/?2020 15:07]  Winifred Victoria:  
+Sure thing, but until then is it still okay to transfer the files?
+ 
+[?02/?07/?2020 15:10]  Rory McCabe:  
+yes, of course
+ 
+[?02/?07/?2020 15:15]  Winifred Victoria:  
+lovely, thanks :)
+ 
+[?02/?07/?2020 16:18]  Rory McCabe:  
+If you have any left to do or before next week's run, can you go into the search window, type region, choose region & language settings and make sure it points to UK?
+ 
+[?02/?07/?2020 16:19]  Winifred Victoria:  
+I have finished my allocation
+but I will go through this and change the settings
+it does say UK
+ 
+[?02/?07/?2020 16:22]  Rory McCabe:  
+I was afraid of that - somewhere in the settings is something that affects date format. In the interim, any file you edit next week, before you save, choose the date row and select the date format without the asterisk, i.e. locked to UK without looking at settings. Don't worry if you cannot as I will reset them afterwards.
+ 
+[?02/?07/?2020 16:22]  Winifred Victoria:  
+Right, yea I was asking this to nick and he said I didnt need to change it
+sorry about that!
+Is there a way to change the excel settings?
+ 
+[?02/?07/?2020 16:24]  Rory McCabe:  
+Not sure as some of you have this issue and some don't but for now, I will reset in the aggregated file and leave the source files as is.
+ 
+[?02/?07/?2020 16:33]  Winifred Victoria:  
+alright, thank you! let me know if you want me to do something else :)
+ 
+[?02/?07/?2020 16:35]  Rory McCabe:  
+Just sent an email - the electroroute/effortless wrong folder is still an issue
+ 
+[?02/?07/?2020 16:35]  Winifred Victoria:  
+Yes, got it! will move it around
+ 
+[?02/?07/?2020 16:35]  Rory McCabe:  
+TY
+
+ 
+[?02/?07/?2020 16:43]  Winifred Victoria:  
+I have changed it now!
+ 
+[?02/?07/?2020 16:43]  Rory McCabe:  
+Thanks
+ 
+[?03/?07/?2020 10:40]  Winifred Victoria:  
+Hello Rory, Just wanted to talk about the issues you wanted to check. I accidentally deleted the entice files (as my laptop started glitching) so I just added the files from the start. 
+therefore the 21 files were replaced
+ 
+[?03/?07/?2020 10:41]  Rory McCabe:  
+Ah OK, thanks, that would explain it
+ 
+[?03/?07/?2020 10:41]  Winifred Victoria:  
+Yup, sorry I didnt mention it before
+ 
+[?03/?07/?2020 10:43]  Rory McCabe:  
+If you can check if Entice future date should be pulled back a week, that is the main issue...
+on B Quan
+ 
+[?03/?07/?2020 10:45]  Winifred Victoria:  
+I will check it against the submission log and let you know
+ 
+[?03/?07/?2020 10:47]  Winifred Victoria:  
+So I checked huddle
+for part B they have submitted all their files on the same day as well
+part B goes from 4/05/2020 to 29/06/2020
+ 
+[?03/?07/?2020 10:49]  Winifred Victoria:  
+they have submitted the 29/06/2020 on the same day
+ 
+[?03/?07/?2020 10:49]  Rory McCabe:  
+Can you check with Nick and Lewis to see if it is ok?
+ 
+[?03/?07/?2020 10:49]  Winifred Victoria:  
+yeah
+ 
+[?03/?07/?2020 10:49]  Rory McCabe:  
+TY
+ 
+[?03/?07/?2020 10:55]  Winifred Victoria:  
+Nick agrees with you, I will start changing the dates now
+ 

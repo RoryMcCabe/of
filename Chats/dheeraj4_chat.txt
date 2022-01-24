@@ -1,0 +1,7 @@
+[?27/?01/?2021 15:04]  Rory McCabe:  
+Hi, just looking at M9a and b - check lines using single command that has been deprecated - think 9c is correct...
+effect is those lines are stripped and the count is then wrong for everything under them
+ 
+[?27/?01/?2021 15:06]  Dheeraj Viswanath:  
+okay 
+ 

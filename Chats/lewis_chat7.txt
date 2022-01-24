@@ -1,0 +1,49 @@
+[?14/?08/?2020 15:07]  Lewis Edgar:  
+Hi Rory, A supplier a spotted an issue with the complementary indicators template 
+When you populate the date and supplier name it only populates down to row 42 - I think this is because we added the leading indicators 
+ 
+[?14/?08/?2020 15:08]  Rory McCabe:  
+Ah, will check - it could be the added lines have changed the locked range
+ 
+[?14/?08/?2020 15:11]  Rory McCabe:  
+Works right down to line 58 for me ... Can you duplicate the error?
+ 
+[?14/?08/?2020 15:12]  Lewis Edgar:  
+hmm most recent version you sent on Monday 3 August only goes to 42 for me
+v3
+ 
+[?14/?08/?2020 15:14]  Rory McCabe:  
+That is the one I tested just now - will retry with attachment from email...
+ 
+[?14/?08/?2020 15:21]  Rory McCabe:  
+Taking numbers in one column and text in the other all the way down - what error do you get?
+ 
+[?14/?08/?2020 15:22]  Lewis Edgar:  
+they both go to 42 for me
+ 
+[?14/?08/?2020 15:26]  Rory McCabe:  
+no error?
+row 42, question 41
+ 
+[?14/?08/?2020 15:28]  Lewis Edgar:  
+I'm not sure what you meant by Taking numbers in one column and text in the other all the way down 
+ 
+[?14/?08/?2020 15:29]  Rory McCabe:  
+filling in 11's an vale and aa's in comment
+that should read: 11's in value
+Are you saying you cannot arrow down at all even without values
+ 
+[?14/?08/?2020 15:30]  Lewis Edgar:  
+I can, it's column A & B where the issue is
+when you populate the dropdown it only autofills to row 42
+ 
+[?14/?08/?2020 15:30]  Rory McCabe:  
+Ah, gotcha - o it
+on it
+ 
+[?14/?08/?2020 15:30]  Lewis Edgar:  
+sorry, I wasn't very clear!
+ 
+[?14/?08/?2020 15:33]  Rory McCabe:  
+np
+ 

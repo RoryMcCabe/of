@@ -1,0 +1,72 @@
+[?16/?07/?2020 11:07]  Monica Gandolfi:  
+Hi Rory!
+How are you doing?
+Any insights on how long this situation will last?
+ 
+[?16/?07/?2020 11:08]  Rory McCabe:  
+Hi, still off vpn but getting some work done :)
+There is a data centre down
+vpn servers did not failover
+DDaT are working on it
+ 
+[?16/?07/?2020 11:09]  Monica Gandolfi:  
+are you involved?
+ 
+[?16/?07/?2020 11:09]  Rory McCabe:  
+no
+not in our remit 
+ 
+[?16/?07/?2020 11:09]  Monica Gandolfi:  
+Happy to go ahead with our catch-up at 11:30 as planned?
+ 
+[?16/?07/?2020 11:09]  Rory McCabe:  
+sure
+ 
+[?16/?07/?2020 11:10]  Monica Gandolfi:  
+Great, will call you
+ 
+[?16/?07/?2020 11:10]  Rory McCabe:  
+Skype should work 
+ 
+[?16/?07/?2020 11:10]  Monica Gandolfi:  
+I had included a Skype link in the meeting invite, but cannot access it
+Will just call you via Skype
+ 
+[?16/?07/?2020 11:11]  Rory McCabe:  
+ok
+ 
+[?16/?07/?2020 11:29]  Monica Gandolfi:  
+Some notes for our call below
+ 
+[?16/?07/?2020 11:29]  Monica Gandolfi:  
+Context  
+Context
+
+Suppliers are providing comments on draft new questions/templates - by next Wed 22 July 
+
+Final new consumer impact templates need to be ready by Friday 24 July - issue RFI asap in w/c 27 July
+
+Prep as much as possible in advance - be ready to work on incorporating any suppliers' comments between 22 and 24 July
+
+Our plan on how to receive/process the data:
+
+Design goals - we spoke about it already - simplicity for suppliers to fill in, minimize errors in submissions and risk suppliers modify template and facilitate aggregation
+
+Can you work on draft design of templates for early next week, building on the templates sent? Also adding any instructions for suppliers? By next Tuesday say? And then introduce any modifications based on suppliers' feedback?
+
+Do we still need a validation tool with the simple new design?
+
+We plan to continue to use Huddle Covid-19 workspace - will need to clear it from old submissions though - any views? 
+ 
+Connected to Monica Gandolfi (monica.gandolfi@ofgem.gov.uk).  
+Call with Monica Gandolfi (monica.gandolfi@ofgem.gov.uk) has ended. 32 minutes  
+[?16/?07/?2020 12:09]  Monica Gandolfi:  
+Apparently the advice from Data Service is that they are still working on the issue and we should not log in yet
+Jonathan Baldry told me
+ 
+[?16/?07/?2020 12:29]  Rory McCabe:  
+Should be good now - email is a bit slow
+ 
+[?16/?07/?2020 12:34]  Monica Gandolfi:  
+Great thanks!
+ 

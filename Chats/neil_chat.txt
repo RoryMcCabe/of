@@ -1,0 +1,12 @@
+[?03/?06/?2020 09:48]  Neil Welsh:  
+Morning Rory hope you are doing well, I was wondering if I would be able to share some of the heat maps that you have put on the covid K-drive with my manager? I only ask as i was doing a similar tracker regarding valid submissions, and its seems like a very handy graphic
+ 
+[?03/?06/?2020 09:50]  Rory McCabe:  
+Of course, share away (within the bounds of Ofgem). They are there to help analysis or follow-up of the submissions.
+ 
+[?03/?06/?2020 09:52]  Rory McCabe:  
+In case you are wondering why the totals are not quantised in chunks of 10, 29, 54 and 80 (the sizes of the four files they send), it is because it is a count of the non-null values they fill in and that can be anything from zero to these four numbers per file.
+ 
+[?03/?06/?2020 09:53]  Neil Welsh:  
+perfect thanks Rory, and got you
+ 

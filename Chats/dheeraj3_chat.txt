@@ -1,0 +1,61 @@
+[?11/?01/?2021 17:15]  Rory McCabe:  
+Hi, got SP access back, ITSec had Peter reset it.
+ 
+[?11/?01/?2021 17:15]  Dheeraj Viswanath:  
+okay great 
+ill send you a link
+ 
+[?11/?01/?2021 17:22]  Dheeraj Viswanath:  
+https://ofgemcloud.sharepoint.com/:x:/r/sites/PC/Shared%20Documents/Electricity%20Distribution/Business%20Plan%20Data%20Templates/BPDT%20Data%20Template/BPDT%20Final/riio-ed2_draft_business_plan_data_templates_v3.0.xlsx?d=w2677d7955a214717b9e780cd55107c82&csf=1&web=1&e=ZDQ9Qe 
+ 
+[?12/?01/?2021 16:47]  Rory McCabe:  
+Hi- FYI: CV20, cell A187 should read total outside area but reads inside area as it was copied from A181.
+ 
+[?12/?01/?2021 16:50]  Dheeraj Viswanath:  
+hi rory 
+sorry my skype crashed 
+so I lost your message 
+could you resend it please?
+ 
+[?12/?01/?2021 16:52]  Rory McCabe:  
+sure, it was just CV20, cell A187 should read total outside area but reads inside area as it was copied from A181. 
+ 
+[?12/?01/?2021 16:52]  Dheeraj Viswanath:  
+okay cheers ill note that down 
+ 
+[?12/?01/?2021 16:52]  Rory McCabe:  
+np
+working off v3.0 master draft now
+ 
+[?12/?01/?2021 16:53]  Dheeraj Viswanath:  
+okay great 
+access worked? 
+ 
+[?12/?01/?2021 16:54]  Rory McCabe:  
+once tabs are finished, we really need to go back to note changes that need re-scripting. I've noticed the read/ignore pattern changed in C22 and that is hard to notice
+yes thanks
+ 
+[?12/?01/?2021 16:54]  Dheeraj Viswanath:  
+yep - we are going to finish the issues log 
+had a catchup with chris this morning 
+ 
+[?12/?01/?2021 16:55]  Rory McCabe:  
+excellent
+ 
+[?12/?01/?2021 16:59]  Rory McCabe:  
+CV20 row 189 has formula dashes in columns R-V but should have blanks, i.e. rows 181, 187 and 189 should be grey for those five columns
+ 
+[?12/?01/?2021 16:59]  Dheeraj Viswanath:  
+cheers
+ 
+[?12/?01/?2021 17:58]  Rory McCabe:  
+Last thing: Column Y totals have dashed formulas too and additions section has same issues in rows 147-173, columns AN - AU
+Dheeraj Viswanath can't receive IMs right now. Status is unavailable or offline. 
+[?13/?01/?2021 12:53]  Rory McCabe:  
+Hi, CV22 missing formulas in line 145, columns W-Y and AS-AU
+Last meg yesterday not received was about CV20: Last thing: Column Y totals have dashed formulas too and additions section has same issues in rows 147-173, columns AN - AU 
+*last message
+ 
+[?13/?01/?2021 13:54]  Dheeraj Viswanath:  
+thank you
+ 

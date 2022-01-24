@@ -1,0 +1,21 @@
+[?06/?05/?2020 12:37] Monica Gandolfi: 
+Hi Rory
+[?06/?05/?2020 12:37] Rory McCabe: 
+Hi
+[?06/?05/?2020 12:38] Monica Gandolfi: 
+I hope you did not mind me be very straight on the fact that you are leading on the aggregation process and that Peter should coordinate more closely with you
+[?06/?05/?2020 12:40] Rory McCabe: 
+I don't want to step on any toes and he has been contacting me with his parallel work. My feelings were that, if it was a trusted process, to apply it to the live K: files as every cleaning action helps. You cannot join his R code to my Python code but both can act on the data. I think, so far. his output goes to a separate folder and I haven't had time to examine it closely. 
+My R is a little rusty but I can follow his code
+[?06/?05/?2020 12:42] Rory McCabe: 
+One thing he does is overwrite files with known good versions - I wasn't sure if that was a good long term strategy if suppliers resubmit updated numbers.
+[?06/?05/?2020 12:44] Monica Gandolfi: 
+Please do not spend too much time on this if you think it does not add real efficiencies to the process. Feel free to go ahead with your process and let him know why, I trust you fully. Please cc me in whenever needed. 
+[?06/?05/?2020 12:46] Rory McCabe: 
+Thank you Monica, that is appreciated. His R code may be more efficient or more aggressive, I just have not had time to look but, if it fixes things, I'd say let his cleaning happen as we are all working on this together and with time constraints.
+[?06/?05/?2020 12:48] Rory McCabe: 
+While I have you, I wasn't going to ask for feedback as I thought this work fell out of last quarter's time but, if you have some time, could you email me a quick feedback on my work so far as I have my review tomorrow.
+[?06/?05/?2020 12:49] Monica Gandolfi: 
+Sure, will do it by cob today or first thing tomorrow morning (I'm an early bird)
+[?06/?05/?2020 12:49] Rory McCabe: 
+TY

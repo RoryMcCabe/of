@@ -1,0 +1,85 @@
+[?26/?11/?2020 16:08]  Jeremy Fisher:  
+Hi Rory, A couple of things about the CV7_ASSET tab that have come up in testing.
+ 
+[?26/?11/?2020 16:08]  Rory McCabe:  
+Free for a call if easier
+ 
+[?26/?11/?2020 16:08]  Jeremy Fisher:  
+ok
+ 
+Connected to Jeremy Fisher (jeremy.fisher@ofgem.gov.uk).  
+Call with Jeremy Fisher (jeremy.fisher@ofgem.gov.uk) has ended. 12 minutes  
+[?26/?11/?2020 16:36]  Rory McCabe:  
+Hi, took me a minute but the source of the zeros is nothing to do with our work. It is the dynamic calls to values in other tabs. Those last six lines are filled fom 7a and 7b which have those six rows greyed out and are therefore 0
+ 
+[?26/?11/?2020 16:37]  Rory McCabe:  
+So your manual or indeed scripted checks are ok with yellow cells (raw data) and even green cells (sum formulas) but not blue (calls)
+ 
+[?26/?11/?2020 16:39]  Jeremy Fisher:  
+Hmm.  I don't think that this value is appearing in the gathered data, and I think that it should be ... 
+ 
+[?26/?11/?2020 16:39]  Rory McCabe:  
+It is not frozen so calls every time you run it
+ 
+[?26/?11/?2020 16:39]  Jeremy Fisher:  
+Electrical Energy Storage	 	Other	Each	 Asset Additions/Activity Volumes	
+DPCR5	
+2011	
+#	 
+The worksheet that I have is frozen.
+ 
+[?26/?11/?2020 16:40]  Rory McCabe:  
+not 7a and b
+ 
+[?26/?11/?2020 16:40]  Jeremy Fisher:  
+I copied the values and pasted the formatting on top
+ 
+[?26/?11/?2020 16:44]  Jeremy Fisher:  
+OK.  Is the value from the raw data in cell AA136 (which is in the cell AA129 in the stripped data) being copied correctly in the Python program?
+I don't think that it is but could be wrong
+ 
+[?26/?11/?2020 16:47]  Jeremy Fisher:  
+Hmm the value is in AA136 is 48.8 in the raw data.  It is 0.0 in the stripped data in cell AA129.  Why has it changed?  I must be missing something here!
+ 
+[?26/?11/?2020 16:56]  Rory McCabe:  
+I checked with Liz and this came up in spoke - Jon's decision was it is not a problem and certainly not part of QA. The tables map, what the values do is part of their Excel design and formula logic.
+Not a problem flagging it but like sitchgear+space, it is a different action and not showing any issue in the translation process.
+ 
+[?26/?11/?2020 16:58]  Rory McCabe:  
+The knock-on effect however is your nice sum check script may not work for cell corners that are not yellow or green; blue and blanks will not be picked up correctly
+ 
+[?26/?11/?2020 17:00]  Jeremy Fisher:  
+Hmmm pls can you remind what should happen to the different colors.  I think that green and blue cells should appear in the gather file - is this correct?
+ 
+[?26/?11/?2020 17:06]  Rory McCabe:  
+a value should - whether it is kept or not is another question
+akin to the pass by reference issue in scripting I suppose
+ 
+[?26/?11/?2020 17:07]  Rory McCabe:  
+you have something in the box but it may be referential and not be the static value you expect
+Bottom line is QA takes long enough and we've done around 50/100 so we'll flag it to them and move on
+ 
+[?26/?11/?2020 17:09]  Rory McCabe:  
+If it becomes an issue when all the tabs have real data from the DNO's then of course we'll need to throw resources at it
+ 
+[?26/?11/?2020 17:10]  Jeremy Fisher:  
+I'll sleep on it and think tomorrow about these problems
+ 
+[?26/?11/?2020 17:10]  Rory McCabe:  
+:)
+ 
+[?26/?11/?2020 17:33]  Rory McCabe:  
+If it helps, when you enable content, you see errors as it tries to get data from a closed sharepoint site
+ 
+[?26/?11/?2020 17:55]  Jeremy Fisher:  
+Cracked it!  (I think).  Please look at at table_3 in the code.  It copies the data using this dictionary
+"table_3" : {"data_coords" :   ["A25", "CO130"], #Asset Costs & Vol
+            "metadata_coords":["D36", "CR141"]   
+ 
+[?26/?11/?2020 17:57]  Jeremy Fisher:  
+no... I'm wrong.
+I'll leave it until tomorrow
+ 
+[?26/?11/?2020 18:00]  Rory McCabe:  
+Don't lose sleep over it. Check the co-ords by all means but we don't need the values checked.
+ 

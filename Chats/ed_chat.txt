@@ -1,0 +1,54 @@
+[?12/?05/?2020 10:24] Edmond Omolu: 
+Hi Rory. How are you? How are you coping with Social Distancing?
+[?12/?05/?2020 10:47] Rory McCabe: 
+Hi Ed, I'm fine compared with others. Working from home on the Covid RFI data so feeling useful. You?
+[?12/?05/?2020 10:50] Edmond Omolu: 
+It's hard. I am terrified of going out for runs which I know I must keep up with.
+[?12/?05/?2020 10:51] Edmond Omolu: 
+I need to pick your brain at some point around generating Dummy data for MIO. Shall set up a meeting for later in the week? Thanks in anticipation.
+[?12/?05/?2020 10:55] Rory McCabe: 
+Dummy data is easy enough - I wrote a script for it depending on the JSON constraints but these change all the time with MIO
+[?12/?05/?2020 10:56] Edmond Omolu: 
+Yep! It has changed again. Is the script in gitlab?
+[?12/?05/?2020 10:56] Rory McCabe: 
+I think the original is there, a version from Anushka
+I changed a few things but it could be a starting point for anyone doing this in MIO
+[?12/?05/?2020 10:58] Edmond Omolu: 
+Okay, please if you can point us to where the script it that would be great. Thanks!
+[?12/?05/?2020 11:01] Rory McCabe: 
+Will do if Gitlab lets me in from home. Bad on any day but network is REALLY morning.
+bad that is
+[?12/?05/?2020 11:08] Rory McCabe: 
+I don't see it in Anushka's repo or one called Ofgem\Dummy data. It is there somewhere. I still have my version locally. Would it be easier for me to run it if you give me the JSON requirements?
+[?12/?05/?2020 11:12] Rory McCabe: 
+I know I'll regret offering but it is a sincere offer :) 
+[?12/?05/?2020 11:14] Edmond Omolu: 
+OMG!!!! You are a star. I will get Kathy or Lawrence to send you the json. Also it will be good to know how they can run it in the future if it changes so that they can become self-sufficient.
+[?12/?05/?2020 11:17] Rory McCabe: 
+Just remind me again, after multiple companies and months late, is there an end of sight to this project?
+[?12/?05/?2020 11:18] Edmond Omolu: 
+Yeah! The main blockers have been hub DevOps and Amrit.
+[?12/?05/?2020 11:19] Rory McCabe: 
+To be fair, DDaT/Hippo have banned DS from 'new' work and their definition of new leaves a lot to be desired when it some to supporting legacy processes. 
+[?12/?05/?2020 11:57] Edmond Omolu: 
+Any new work should really be driven by Business User Needs of which MIO is one of them. I don't know what business needs is driving the current hub work.
+[?12/?05/?2020 12:02] Rory McCabe: 
+We are desperate to see the Service Delivery design to see where we fit into Ofgem and DDaT to define exactly that - our scope and priorities
+[?12/?05/?2020 12:06] Edmond Omolu: 
+Totally agree with that.
+[?12/?05/?2020 15:45] Edmond Omolu: 
+When will be a good time for us to catch up on how to run your script with a new json file?
+[?12/?05/?2020 15:52] Rory McCabe: 
+Around 11am tomorrow or later in the afternoon
+[?12/?05/?2020 15:56] Edmond Omolu: 
+I am free tomorrow between 14:00 - 15:00
+I will send you a skype invite at 13:45.
+Thanks a bunch for this. I owe you big time.
+[?12/?05/?2020 16:02] Rory McCabe: 
+no probs
+[?12/?05/?2020 16:36] Edmond Omolu: 
+Are you able to pull this json file from here?
+Those new json files are under \ofgem-data-platform-master\data-engineering\ofgem\resources\mio\schema
+
+You need to checkout dev branch from ofgem-data-platform-master repo. 
+That was the message from the MIO team.

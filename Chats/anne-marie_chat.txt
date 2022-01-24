@@ -1,0 +1,11 @@
+[?03/?06/?2020 11:42]  Anne-Marie Spalding:  
+Hey Rory, thanks for responding to my email yesterday.... can i just check with you how long the data cleansing takes by the team i.e. i think MOnica (+4) do that bit, vs how long running the aggregation script takes?
+sorry to dwell on this point it's just i keep getting asked by reg finance how long all of this is taking and can we help speed up the process, so if i can go back to them with as much detail as poss that would be helpful 
+ 
+[?03/?06/?2020 11:54]  Rory McCabe:  
+Hi. Closing time for submissions is Thursday lunchtime. Lewis and the team extract and check the files by afternoon. I then work well after COB to get a list of issues to fix and it takes a lot of Friday to fix them. Once everything is clean, the aggregations take about an hour. We've shortened this process from Tuesday to Monday to pre-weekend so I do not think there is anything we can do to pull it back more. We have around 400 files each week and a lot of them need cleaning for multiple issues.
+ 
+[?03/?06/?2020 11:55]  Anne-Marie Spalding:  
+great thank you - thats really helpful! 
+i hadn't factored in the extra half a day we give for closing time for submissions
+ 
